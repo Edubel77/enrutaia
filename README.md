@@ -13,3 +13,5 @@ Clasificador de solicitudes en español que asigna cada texto a un área de aten
 - Textos cortos: mediana de 7 palabras; el 99 % tiene 19 palabras o menos.
 - Fugas detectadas: 344 duplicados dentro de train; 110 textos de validación y 136 de test también aparecen en train.
 - Decisión: Mantener los 18 dominios (desbalance de 8x, con al menos 211 ejemplos por clase) y documentar las fugas detectadas para interpretar con cautela las métricas en validación y test, evitando que el modelo infle su rendimiento por textos repetidos vistos durante el entrenamiento.
+- Conflictos de etiqueta: 13 textos aparecen con más de un dominio (ambigüedad o error de anotación).
+- Decisión: splits limpios (opción 2). Se eliminan los textos con conflicto, los duplicados dentro de cada split y los textos de validación/test presentes en train (y de test presentes en validación). Se documentará en DATA_CARD.md cuántos ejemplos se quitaron.
