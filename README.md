@@ -9,6 +9,7 @@ Clasificador de solicitudes en español que asigna cada texto a un área de aten
 - **Por qué:** datos limpios, etiquetados y en español; permite enfocar el tiempo en el modelo.
 - **Limitación:** son órdenes a un asistente virtual, no trámites ni PQRS reales.
 ## Hallazgos del EDA (Día 3)
+
 - Splits estratificados: la proporción de cada dominio es similar en train, validación y test.
 - Textos cortos: mediana de 7 palabras; el 99 % tiene 19 palabras o menos.
 - Fugas detectadas: 344 duplicados dentro de train; 110 textos de validación y 136 de test también aparecen en train.
