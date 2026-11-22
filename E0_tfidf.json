@@ -1,0 +1,10 @@
+{
+  "experimento": "E0",
+  "modelo": "TF-IDF (palabras 1-2 + caracteres 2-5) + LogisticRegression",
+  "datos": "data/limpio (splits limpios)",
+  "split_evaluado": "validation",
+  "macro_f1": 0.8725,
+  "accuracy": 0.8789,
+  "segundos_entrenamiento": 16.5,
+  "sklearn": "1.6.1"
+}

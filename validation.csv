@@ -1,0 +1,1916 @@
+text,label,dominio
+atenua las luces en el pasillo,iot_hue_lightdim,iot
+oscurece la habitación,iot_hue_lightdim,iot
+limpia el piso,iot_cleaning,iot
+limpiar es bueno el polvo es tan malo haz ahora tu magia limpia mi alfombra,iot_cleaning,iot
+dame el estado de mi memoria disponible,general_quirky,general
+lista de las opciones de entrega de comida china más valoradas,takeaway_query,takeaway
+encontrar mi comida para llevar tailandesa alrededor del centro,takeaway_query,takeaway
+me gustaría escuchar barcelona de queen,play_music,play
+ponme barcelona por queen,play_music,play
+cuál es el grupo que está sonando ahora mismo,music_query,music
+qué hay en mi pedido de la cena,takeaway_query,takeaway
+cuál es el pronóstico del tiempo para la semana,weather_query,weather
+pon duele como el cielo,play_music,play
+ponte reina caníbal,play_music,play
+pon algo de david bowie,play_music,play
+pon en bucle esta canción,music_settings,music
+pon el volumen a bajo,audio_volume_down,audio
+que cancion es esa,music_query,music
+me gusta escuchar jazz,play_music,play
+oye oye,general_greet,general
+pon alarma mañana a las seis de la mañana,alarm_set,alarm
+está lloviendo afuera,weather_query,weather
+que hora es en las palmas,datetime_query,datetime
+poner una alarma a las seis de la mañana,alarm_set,alarm
+configuré una alarma para despertarme por la mañana,alarm_query,alarm
+que esta pasando en america,news_query,news
+dime los titulares del periódico de hoy,news_query,news
+pon chopin,play_music,play
+que día es la resurreción este año,datetime_query,datetime
+esta muy oscuro aqui,iot_hue_lighton,iot
+va a llover mañana,weather_query,weather
+más suave,audio_volume_down,audio
+qué temperatura hará mañana,weather_query,weather
+lo que es mañana las predicciones del tiempo,weather_query,weather
+que día de la semana es veintidos de marzo,datetime_query,datetime
+es hoy lunes,datetime_query,datetime
+cómo está el tiempo en madrid capital,weather_query,weather
+hace sol en mallorca ahora,weather_query,weather
+avíseme tan pronto como haya más noticias sobre el brexit,news_query,news
+tocar una canción de mis favoritos,play_music,play
+me gustaria escuchar música pop por favor,play_music,play
+cambia las luces de mi habitación para que yo pueda dormir bien,iot_hue_lightchange,iot
+qué tiempo hará el viernes,weather_query,weather
+debo ponerme una chaqueta hoy,weather_query,weather
+deshabilitar la reproducción aleatoria,music_settings,music
+que cosas no puedes hacer,general_quirky,general
+por extremoduro,weather_query,weather
+silencia en la próxima hora por favor,audio_volume_mute,audio
+pon mi canción favorita,play_music,play
+esto es muy peligroso,weather_query,weather
+por favor cuéntame algunas noticias internacionales,news_query,news
+pon una alarma despertador a las diez de la mañana,alarm_set,alarm
+poner una alarma a las tres de la tarde,alarm_set,alarm
+pon una alarma a la una de la tarde,alarm_set,alarm
+reproduce la canción inmediatamente,play_music,play
+mándame al correo la letra de esta canción,music_query,music
+deshacerse de mi alarma de las ocho a. m.,alarm_remove,alarm
+va a estar lloviendo mañana,weather_query,weather
+por favor golpe maestro de vetusta morla,play_music,play
+poner alarma,alarm_set,alarm
+quiero levantarme mañana a las seis de la mañana por favor,alarm_set,alarm
+solo reproduce canciones de mi lista de reproducción,play_music,play
+qué día de la semana es acción de gracias,datetime_query,datetime
+por favor déjame escuchar seiscientos sesenta y seis el número de la bestia,play_music,play
+puedes buscar chistes de animales para mí,general_joke,general
+como es el estado del tiempo ahora,weather_query,weather
+que hora es ahora en andalucía,datetime_query,datetime
+fija la zona horaria,datetime_convert,datetime
+enciende la t. v. enchufe cuando llego a casa,iot_wemo_on,iot
+sigue las noticias sobre la controversia de papeles de bárcenas en el futuro,news_query,news
+no puedo oir sube el volumen,audio_volume_up,audio
+puedes hacer mas brillante s las luces,iot_hue_lightup,iot
+quiero escuchar bruno mars ahora,play_music,play
+quién está liderando la carrera de formula uno ahora mismo,news_query,news
+prepara café,iot_coffee,iot
+lee los titulares de la voz de madrid,news_query,news
+puedo conocer las últimas noticias de c. n. n,news_query,news
+puedes bajar el tono por favor,audio_volume_down,audio
+tocar canciones del género r y b y soul,play_music,play
+puedes apagar el enchufe wemo,iot_wemo_off,iot
+como estará el tiempo esta semana,weather_query,weather
+cómo se supone que está el tiempo esta semana,weather_query,weather
+dime si ocurre un terremoto en el mundo,news_query,news
+jugar boogie in your butt por eddie murphy,play_music,play
+ey olly silencia los altavoces,audio_volume_mute,audio
+baje todo el volumen de los altavoces por favor,audio_volume_down,audio
+haz cafe ahora,iot_coffee,iot
+ok google pon algo de música,play_music,play
+cuál es el último cotilleo de marbella,news_query,news
+sube el brillo de luces,iot_hue_lightup,iot
+alarma puesta ocho de la mañana,alarm_set,alarm
+apagar la alarma de las seis de la mañana del miércoles,alarm_remove,alarm
+apaga mis alarmas de la mañana tras el viernes,alarm_remove,alarm
+mira el tiempo de la semana que viene por mi por favor,weather_query,weather
+pon música de mi artista favorito,play_music,play
+por favor baja las luces un poco,iot_hue_lightdim,iot
+moviles,alarm_remove,alarm
+si son las ocho de la tarde en la costa este que hora es en palma mallorca,datetime_convert,datetime
+el rosario's acepta pedidos para llevar,takeaway_query,takeaway
+puedes decirme que hora es en madrid,datetime_query,datetime
+noticias actuales la sexta,news_query,news
+llévame a la web del huffington post,social_post,social
+pon los titulares por favor,news_query,news
+cuáles son los titulares de el país,news_query,news
+mira si la enriquetta hace pedidos para llevar,takeaway_query,takeaway
+puedo saber la fecha de hoy,datetime_query,datetime
+está mi alarma de la escuela puesta,alarm_query,alarm
+cómo de caluroso se está fuera,weather_query,weather
+a la una de la tarde de hoy pon en marcha el robot aspirador,iot_cleaning,iot
+buenos asistentes,news_query,news
+envíame las noticias actuales del día,news_query,news
+pon lady de kenny rogers ahora,play_music,play
+cuál es la letra de la canción buleria de david bisbal,music_query,music
+nunca jamás me pongas country,music_dislikeness,music
+si son las diez p. m. en madrid qué hora es en tenerife,datetime_convert,datetime
+necesito escuchar a buleria por parte de david bisbal ahora,play_music,play
+como está el tiempo hoy,weather_query,weather
+lloverá,weather_query,weather
+me puedes sugerir comida sana para cenar,cooking_recipe,cooking
+pedir una comida de un buen restaurante,takeaway_order,takeaway
+convierte la hora de madrid en la hora de londres,datetime_convert,datetime
+olly pon el salón azúl,iot_hue_lightchange,iot
+haz que la luz del salon sea azul,iot_hue_lightchange,iot
+por favor pon macarena,play_music,play
+cuál es la previsión del tiempo para el martes,weather_query,weather
+qué tiempo hará el lunes al mediodía,weather_query,weather
+qué será el día quince de marzo,datetime_query,datetime
+quiero la fecha del último lunes de este mes,datetime_query,datetime
+cuál es la hora en india cuando la hora en estados unidos es a las doce de la noche,datetime_convert,datetime
+dime qué hora es,datetime_query,datetime
+encuéntrame el mejor chiste de toc toc en internet,general_joke,general
+como estará el tiempo el lunes de esta semana,weather_query,weather
+tu receta de filete de ternera era magnífica,cooking_recipe,cooking
+qué está sucediendo en el mundo hoy,news_query,news
+que día es el cinco de diciembre,datetime_query,datetime
+oye,general_greet,general
+quiero las noticias sobre los premios de la academia,news_query,news
+dime la hora actual en ottawa,datetime_query,datetime
+hace calor hoy no es así,weather_query,weather
+hace mucho calor hoy no es así,weather_query,weather
+cien mil doscientas veintitrés,datetime_query,datetime
+cambia al ajuste de luz nocturna,iot_hue_lightchange,iot
+puedo hacer un pedido para llevar al taco bell,takeaway_query,takeaway
+pídeme comida para llevar,takeaway_order,takeaway
+encontrar y poner en cola todas las canciones de kate perry y reproducir todo sin aleatorio,play_music,play
+haz una lista de reproducción de todas las canciones de eminem y juega con aleatorio,play_music,play
+pon música,play_music,play
+buscar chistes nuevos,general_joke,general
+quiero escuchar rock suave,play_music,play
+quiero escuchar música animada,play_music,play
+pon el top diez de billboard,play_music,play
+me puedes dar un pronóstico de diez días de mi zona,weather_query,weather
+dime el pronóstico del tiempo para esta semana por favor,weather_query,weather
+pon música de la playlist,play_music,play
+puedo tener un espresso por favor,iot_coffee,iot
+ollye enciende la aspiradora,iot_cleaning,iot
+puedes encender la roomba,iot_cleaning,iot
+envíame una alerta sobre todos los nuevos temas de política,news_query,news
+clasificación,music_likeness,music
+a. m. o p. m.,alarm_query,alarm
+cuáles son los últimos artículos de noticias de yahoo,news_query,news
+encuéntrame alguna noticia de muy limpio las últimas seis horas,news_query,news
+qué música está poniendo actualmente novecientos noventa y nueve f. m.,music_query,music
+sube el volumen de la música a noventa,audio_volume_up,audio
+es un sí o no que la temperatura de mañana será cálida,weather_query,weather
+pronóstico del tiempo de esta semana,weather_query,weather
+quién es el artista de la canción que está sonando ahora,music_query,music
+no me gusta esta canción apágala,music_dislikeness,music
+de las diez a las once de la mañana todos los días pongo mi robot aspiradora,iot_cleaning,iot
+cuál será la temperatura más alta la próxima semana,weather_query,weather
+comprueba que la alarma está puesta hoy a las diez de la mañana,alarm_query,alarm
+pon enrique,play_music,play
+jugar a rafael,play_music,play
+es posible que proporciones los gustos de mi música,music_query,music
+las últimas noticias sobre españa,news_query,news
+necesito un poco más de luces,iot_hue_lightup,iot
+dime la hora actual,datetime_query,datetime
+mi cantante favorita es shakira,music_likeness,music
+pon mis canciones más escuchadas,play_music,play
+ve a youtube y ponme las mejores canciones de boda de la colección,play_music,play
+tráeme las noticias tecnológicas más actuales,news_query,news
+añade esa canción a mi lista de los diez favoritas,music_likeness,music
+esa canción era increíble puedes repetirla,music_likeness,music
+dame poca luz en la cocina,iot_hue_lightdim,iot
+guarda esa canción y mi opinion,music_likeness,music
+actualizarme con los resultados de las elecciones,news_query,news
+que dicen los analistas sobre las nuevas políticas de inmigración,news_query,news
+estado del pedido del restaurante,takeaway_query,takeaway
+avísame a las cinco horas,alarm_set,alarm
+enciende mi aspiradora robot de limpieza,iot_cleaning,iot
+toca musica,play_music,play
+cuál es el grupo de fecha y hora actual,datetime_query,datetime
+comienza con la limpieza de la casa,iot_cleaning,iot
+broma graciosa,general_joke,general
+qué canción está sonando actualmente,music_query,music
+guarda la información proporcionada por aman en esta canción,music_likeness,music
+hey alexa enciende las luces de discoteca en mi piso y que empiece la fiesta,iot_hue_lighton,iot
+por favor pon rap,play_music,play
+qué día tan soleado,weather_query,weather
+está la reunión programada para mañana,calendar_query,calendar
+está nublado hoy,weather_query,weather
+toca el botón de silencio,audio_volume_mute,audio
+pon una cover reciente de aitana,play_music,play
+vamos a oír algo de country y salsa que no sea de los estados unidos,play_music,play
+comprobar el título de la música que se está reproduciendo actualmente,music_query,music
+hace envíos a domicilio el dragón de oro,takeaway_query,takeaway
+reproducir mi última lista de reproducción usada,play_music,play
+dame la hora en madrid,datetime_query,datetime
+pon pop,play_music,play
+fija el ambiente por favor,iot_hue_lightchange,iot
+convierte las luces azul,iot_hue_lightchange,iot
+pon las luces del salón rojo,iot_hue_lightchange,iot
+olly dime el tiempo de cádiz,weather_query,weather
+siri que tiempo hace afuera,weather_query,weather
+que día era en mi fecha de nacimiento,datetime_query,datetime
+cual es el titulo de la canción que esta sonando,music_query,music
+puedes decirme que hora es,datetime_query,datetime
+clima el lunes,weather_query,weather
+tiempo el martes,weather_query,weather
+repetir canción,music_settings,music
+me puedes decir las condiciones del tiempo ahora,weather_query,weather
+puedes por favor apagar la luz de mi dormitorio,iot_hue_lightoff,iot
+oye compárteme algún chiste para hacerme feliz,general_joke,general
+cuántas semanas faltan para navidad,datetime_query,datetime
+tienes alguna noticia de los proveedores de noticias,news_query,news
+el tiempo en la casa de campo,weather_query,weather
+por favor convertir nueve de la mañana huso horario a madrid,datetime_convert,datetime
+apaga la luz del armario,iot_hue_lightoff,iot
+pon mis canciones de pop mejor valoradas por favor,play_music,play
+establece el color azul para todas las luces de mi casa,iot_hue_lightchange,iot
+soy para siempre del hip hop,music_likeness,music
+solo baja las luces a siete,iot_hue_lightdim,iot
+baja las luces a siete,iot_hue_lightdim,iot
+minimiza la potencia de la luz,iot_hue_lightdim,iot
+qué tiempo hará el siete,weather_query,weather
+silencia el altavoz por favor,audio_volume_mute,audio
+cuál es el nombre de la música que se está reproduciendo ahora,music_query,music
+que canción es esta,music_query,music
+quiero escuchar loco,play_music,play
+pon de manera aleatoria el álbum de canciones actual,music_settings,music
+que actualizaciones de noticias hay en el pais,news_query,news
+que novedades hay en canal veinticuatro horas,news_query,news
+qué está pasando en el abc,news_query,news
+dime que hora es en la india,datetime_query,datetime
+hay alguna manera de recibir las últimas noticias sobre pedro sánchez,news_query,news
+pide para llevar,takeaway_order,takeaway
+atenuarás todas las luces,iot_hue_lightdim,iot
+dame la noticia,news_query,news
+luces reducidas,iot_hue_lightdim,iot
+hola cómo enciendo el robot aspirador,iot_cleaning,iot
+por favor ayúdame a encender el robot aspiradora,iot_cleaning,iot
+quiero escuchar algo de rock moderno,play_music,play
+cual es el estado de mi ultimo pedido,takeaway_query,takeaway
+como esta afuera,weather_query,weather
+que día de la semana es dia de san valentín,datetime_query,datetime
+dime el tiempo en málaga andalucía,weather_query,weather
+quiero algo de música qué tal si pones mi playlist de ejercicio,play_music,play
+pon una alarma para mañana por la mañana a las ocho,alarm_set,alarm
+por favor baja las luces de mi habitación,iot_hue_lightdim,iot
+dime el nombre del artista,music_query,music
+que pasa en las noticias internacionales de hoy,news_query,news
+cuáles son las últimas noticias internacionales,news_query,news
+me gustaria cafe ahora,iot_coffee,iot
+apaga mi lámpara de noche por favor,iot_hue_lightoff,iot
+por favor inicia aspiradora,iot_cleaning,iot
+inicia la aspiradora ahora,iot_cleaning,iot
+silencia todas las respuestas ahora,audio_volume_mute,audio
+por favor no hablar,audio_volume_mute,audio
+tenemos alguna novedad del nuevo proveedor,news_query,news
+qué hay de nuevo en el espacio en blanco,news_query,news
+pon adele,play_music,play
+cuál es el pronóstico del tiempo en barcelona,weather_query,weather
+nevará la semana que viene,weather_query,weather
+qué está haciendo con el tema de las personas sin hogar en el ayuntamiento de seattle sobre la falta de vivienda,news_query,news
+dime las noticias de el mundo,news_query,news
+cuántas alarmas tengo puestas para las horas de la mañana entre las seis y las nueve,alarm_query,alarm
+abre lista de reproducción,play_music,play
+confirmen el pedido,takeaway_order,takeaway
+prepárame una taza de café,iot_coffee,iot
+ok google pon música rock,play_music,play
+corta la electricidad,iot_hue_lightoff,iot
+poner alarma a las cinco y media,alarm_set,alarm
+puedo recibir la entrega de este restaurante,takeaway_query,takeaway
+mi restaurante favorito hace pedidos para llevar,takeaway_query,takeaway
+ofertan para llevar,takeaway_query,takeaway
+poner en marcha la cafetera,iot_coffee,iot
+cuales son las noticias de política,news_query,news
+enseñame la hora,datetime_query,datetime
+pon música del género jazz,play_music,play
+que fecha cae el próximo sábado,datetime_query,datetime
+ganaron los españoles anoche,news_query,news
+silenciar el sonido de los altavoces,audio_volume_mute,audio
+iluminar las luces del salón,iot_hue_lightup,iot
+haz algo de cafe,iot_coffee,iot
+cambia los colores de la luz de azul a blanco,iot_hue_lightchange,iot
+haz que las luces de la casa se pongan rojas,iot_hue_lightchange,iot
+en qué día cae el diez de abril,datetime_query,datetime
+por favor haz que la aspiradora funcione por una hora,iot_cleaning,iot
+dime la fecha hoy,datetime_query,datetime
+ajusta las luces del salón a rojo,iot_hue_lightchange,iot
+cómo va el envío del restaurante,takeaway_query,takeaway
+escucha esta canción,music_query,music
+la pizzería juan tiene para llevar verdad,takeaway_query,takeaway
+por favor borra cualquier alarma que yo tenga activada,alarm_remove,alarm
+por favor saca el artículo sobre cuidador de perro en la noticias de la mañana,news_query,news
+cómo está el tiempo aquí,weather_query,weather
+pide sandwiches de ensaladilla para llevar,takeaway_order,takeaway
+hay nuevos videos en youtube de el pais,news_query,news
+siguiente reproducción despacito,play_music,play
+reproducir mi lista de reproducción country,play_music,play
+pon mi segunda lista de reproducción,play_music,play
+cual es la cita de hoy,datetime_query,datetime
+alexa apaga el ventilador en la habitación principal,iot_wemo_off,iot
+alexa por favor guarda la canción actual en mis favoritas,music_likeness,music
+me encanta el hip hop,music_likeness,music
+por favor pon mi canción favorita de bruno mars,play_music,play
+por favor prepara el café,iot_coffee,iot
+modo noche,iot_hue_lightdim,iot
+noticias de tecnología de última hora,news_query,news
+titulares de tecnología recientes,news_query,news
+pon la siguiente canción,play_music,play
+en qué año se creó la canción,music_query,music
+encuentra mi comida,takeaway_query,takeaway
+acumulación de predicciones de nieve en búfalo,weather_query,weather
+siri temas de noticias calientes de tendencias,news_query,news
+próxima alarma,alarm_query,alarm
+tengo muchas ganas de comida china ahora mismo por favor déjame pedir comida para llevar,takeaway_order,takeaway
+lo que es nuevo en la política de hoy puede filtrar noticias trump,news_query,news
+necesito dos pizzas,takeaway_order,takeaway
+la temperatura del sur es soleada,weather_query,weather
+en qué lugares puedo pedir comida para llevar cerca,takeaway_order,takeaway
+baja tu volumen por favor,audio_volume_down,audio
+a qué hora esta ajustada mi alarma de despertar,alarm_query,alarm
+tengo alguna alarma para mañana por la mañana,alarm_query,alarm
+eliminar mis alarmas tempranas,alarm_remove,alarm
+reproducir lista de reproducción de música de canal clásico,play_music,play
+haz que esa canción suene a continuación,play_music,play
+cuál es el nombre del cantante de este grupo,music_query,music
+siri pon mi playlist de pop,play_music,play
+dime si hay alguna nueva noticia sobre ese tema,news_query,news
+debieras saber que me gusta el jazz,music_likeness,music
+por favor revisa mi lista de reproducción,music_likeness,music
+puede poner la alarma para las diez y media,alarm_set,alarm
+cancelar alarma para mañana,alarm_remove,alarm
+cuál es la hora central actual,datetime_query,datetime
+borrar alarmas para mañana,alarm_remove,alarm
+olly baja las luces por favor,iot_hue_lightdim,iot
+lloverá mañana en madrid,weather_query,weather
+cuanto tiempo de diferencia hay entre la hora este y la hora pacífico,datetime_convert,datetime
+hace el restaurante chino cercano entregas,takeaway_query,takeaway
+cómo está el tiempo en barcelona,weather_query,weather
+ok google que tiempo hace,weather_query,weather
+bajar la iluminación,iot_hue_lightdim,iot
+por favor enciende el enchufe de mi wemo,iot_wemo_on,iot
+qué tiempo hará la semana que viene,weather_query,weather
+cómo repetir esta canción,music_query,music
+que musica es,music_query,music
+sube las luces por favor,iot_hue_lightup,iot
+pon una playlist romántica,play_music,play
+en qué día de la semana cae el diez de este mes,datetime_query,datetime
+ve a dormir,audio_volume_mute,audio
+me gustaría una alarma despertador mañana a las siete de la mañana,alarm_set,alarm
+por favor enciende todas las luces de fuera,iot_hue_lighton,iot
+aumenta el volumen por favor,audio_volume_up,audio
+consigue las noticias actuales sobre el cese del gobierno,news_query,news
+pon música de los beatles,play_music,play
+consígueme comida para llevar,takeaway_order,takeaway
+pon algo romantico,play_music,play
+hará bueno en la playa el viernes,weather_query,weather
+reproducir el cuarto álbum de afi,play_music,play
+por favor házme un café,iot_coffee,iot
+qué día va a estar lloviendo esta semana,weather_query,weather
+poner alarma a la una de la tarde,alarm_set,alarm
+qué es lo último sobre las elecciones españolas,news_query,news
+por favor haz un cafe para mi,iot_coffee,iot
+hoy hace sol,weather_query,weather
+cómo está el tiempo en segovia ahora,weather_query,weather
+quiero escuchar mi playlist me la pones,play_music,play
+olly pon ateo de c tangana,play_music,play
+qué calor hace en mallorca,weather_query,weather
+que hora es en granada andalucía,datetime_query,datetime
+que hora es en barcelona cataluña,datetime_query,datetime
+hará demasiado frío para un vestido el domingo,weather_query,weather
+puedo escuchar algo de rosalía,play_music,play
+esto es muy brillante,iot_hue_lightdim,iot
+pedir dos pizzas grandes y alitas de pollo picantes del domino's pizza,takeaway_order,takeaway
+cuáles son la fechas y la hora de hoy,datetime_query,datetime
+reproducir mi lista de reproducción actual desde arriba,play_music,play
+toca mi canción country favorita,play_music,play
+qué hora es en valencia ahora mismo,datetime_query,datetime
+olly que hora es en españa ahora mismo,datetime_query,datetime
+por favor pon llámame después de aretha franklin,play_music,play
+las últimas noticias de telecinco,news_query,news
+después de esta ponme grito rebelde,play_music,play
+quiero escuchar algo de jazz,play_music,play
+muestra el tiempo de una semana en madrid,weather_query,weather
+enciende roomba,iot_cleaning,iot
+qué persona hizo esta canción que está sonando en la radio,music_query,music
+cual es la puntuación en la liga de campeones ahora mismo,news_query,news
+cuál es el titular de diario sur,news_query,news
+cómo estará el tiempo el resto de la semana,weather_query,weather
+va a hacer tiempo para llevar chanclas pronto,weather_query,weather
+cómo está el clima ahora mismo,weather_query,weather
+por favor aumente la luz,iot_hue_lightup,iot
+va a nevar la próxima semana,weather_query,weather
+por favor borra la alarma el miércoles por la noche,alarm_remove,alarm
+cuánta nieve ha caído en gijón hoy,weather_query,weather
+guarda el género de éstas canciones para mi,music_likeness,music
+me gustaría que rercordases que me gusta esta canción,music_likeness,music
+después de esta canción pon thriller,play_music,play
+avísame en tres horas,alarm_set,alarm
+indie,play_music,play
+dime que esta pasando en la política europea,news_query,news
+quiero saber quién está en las posiciones más altas de la liga española en este momento,news_query,news
+alexa qué noticias hay en mi zona,news_query,news
+es hora de escuchar un poco de rafael,play_music,play
+enciende la repetición,music_settings,music
+ve limpiando,iot_cleaning,iot
+cuál es el mejor día de la proxima semana para ir a comer pizza,datetime_query,datetime
+qué tipo de tiempo puedo esperar hoy,weather_query,weather
+por favor poner una alarma a las ocho de la mañana,alarm_set,alarm
+añadir un montón de james taylor joni mitchell y cat stevens a la lista de reproducción,play_music,play
+puedes ponerme algo de música dance,play_music,play
+reproducir canciones de la lista de reproducción,play_music,play
+que alarmas he puesto ahora mismo,alarm_query,alarm
+cuál será la temperatura hoy de jaén andalucía,weather_query,weather
+cargar spotify,play_music,play
+oye cuentame un chiste,general_joke,general
+me gustaría pedir algo de comida china para esta noche quén envía,takeaway_order,takeaway
+oye siri prueba los ajustes de luz actuales,iot_hue_lightchange,iot
+he escuchado este riff antes qué canción robó este riff que es exáctamente el mismo,music_query,music
+borrar las alarmas para las cuatro de la mañana,alarm_remove,alarm
+mañana habrá más de treinta y dos grados,weather_query,weather
+reproducir mí canción favorita del último año,play_music,play
+por favor no contestes,audio_volume_mute,audio
+puedes apagar mi lámpara de escritorio,iot_hue_lightoff,iot
+lámpara del escritorio una vez,iot_hue_lightoff,iot
+luz aumentada,iot_hue_lightup,iot
+voy a necesitar llevarme un paraguas al trabajo hoy,weather_query,weather
+me puedo poner pantalones cortos hoy mientras compramos,weather_query,weather
+pon musica de rosalia,play_music,play
+pon el último álbum de alejandro sanz,play_music,play
+poner una alarma para las diez en punto mañana por la mañana,alarm_set,alarm
+despiértame a las diez,alarm_set,alarm
+pon princesa de pereza,play_music,play
+déjame entrega cerca de mí,takeaway_order,takeaway
+abre internet,takeaway_order,takeaway
+déjame escuchar algo de música,play_music,play
+quiero escuchar música genial,play_music,play
+sube la luz de la lampara,iot_hue_lightup,iot
+por favor sube el volumen al maximo en los ajustes,audio_volume_up,audio
+silencia el audio,audio_volume_mute,audio
+detener el audio,audio_volume_mute,audio
+lloverá esta semana,weather_query,weather
+apaga todas las luces interiores,iot_hue_lightdim,iot
+podré salirme con pantalones cortos hoy,weather_query,weather
+debería ponerme capas hoy,weather_query,weather
+cambia mi luz a otra aleatoria,iot_hue_lightchange,iot
+dame el mas nuevo de el país,news_query,news
+silenciar la configuraciones,audio_volume_mute,audio
+se supone que va a nevar esta semana,weather_query,weather
+día veintidós de abril,datetime_query,datetime
+qué tan pronto podemos esperar lluvia,weather_query,weather
+las predicciones meteorológicas que me diste son para la ciudad equivocada quiero saber la temperatura en la que estoy,weather_query,weather
+pide una hamburguesa doble de beicon con queso con beicon y queso amarillo,takeaway_order,takeaway
+pon pereza,play_music,play
+actualización sobre el gorila copito de nieve,news_query,news
+enciende las luces de aqui por favor,iot_hue_lightup,iot
+la hora es diferente en madrid,datetime_query,datetime
+digame que ofertas de catering tienen disponibles,takeaway_query,takeaway
+estara el cielo cubierto,weather_query,weather
+mirar si el pizza hut ha enviado mi pedido,takeaway_query,takeaway
+enciende nuevo enchufe inteligente,iot_wemo_on,iot
+baja las luces a nivel dos,iot_hue_lightdim,iot
+cómo está el pronóstico del tiempo esta semana,weather_query,weather
+por favor apague las luces del dormitorio,iot_hue_lightoff,iot
+cuándo va a llegar el taco bell,takeaway_query,takeaway
+cuál es el nombre de este grupo de música,music_query,music
+cuándo es la próxima conferencia de prensa de rajoy,news_query,news
+cuáles son los precios actuales de las acciones de google,qa_stock,qa
+se va a suspender por la lluvia mi partido de golf,weather_query,weather
+poner una alarma a las cinco de la mañana,alarm_set,alarm
+por favor pon alarma a las diez de la noche,alarm_set,alarm
+como estará el tiempo mañana,weather_query,weather
+va a hacer bueno mañana,weather_query,weather
+cuál es el pronóstico del tiempo en mi área hoy,weather_query,weather
+lista mi alarma diferente,alarm_query,alarm
+enciende notificación para todas las noticias de la bolsa de valores,qa_stock,qa
+notificame de las últimas noticias del mercado de valores,qa_stock,qa
+abre mi música,play_music,play
+dime cuáles son las últimas noticias,news_query,news
+quiero un chiste de nerds,general_joke,general
+debería ponerme pantalones cortos hoy,weather_query,weather
+puedes contarme un buen chiste,general_joke,general
+repetir la última canción de nuevo,music_settings,music
+que día de la semana es el veinte y siete de junio,datetime_query,datetime
+necesitaré estar caliente,weather_query,weather
+convierte zona horaria,datetime_convert,datetime
+que hora es en otra ciudad,datetime_query,datetime
+cuando es el atardecer,qa_factoid,qa
+pronóstico de diez días,weather_query,weather
+se pueden cambiar las luces a verde,iot_hue_lightchange,iot
+muéstrame las noticias de el país,news_query,news
+hay alguna noticia,news_query,news
+pon una alarma en cinco minutos desde ahora,alarm_set,alarm
+por favor activa mi alarma,alarm_set,alarm
+llama al rosario's y pide un bocadillo de jamón con tomate,takeaway_order,takeaway
+cual es la temperatura actual,weather_query,weather
+sintonizar algo de música,play_music,play
+sabes sobre la letra de esta canción,music_query,music
+abre algunos chistes geniales,general_joke,general
+cambia las luces a apagado,iot_hue_lightoff,iot
+últimas noticias sobre el huracán,news_query,news
+envíame las actualizaciones del mercado de valores para hoy,qa_stock,qa
+cuáles fueron los números ganadores del euromillones anoche,news_query,news
+borrar alarma a la hora de acostarse de eva,alarm_remove,alarm
+háblame más bajo,audio_volume_down,audio
+que hora es en la zona horaria este,datetime_query,datetime
+por favor me puedes decir las últimas noticias sobre el estado de las elecciones de nuestro país,news_query,news
+me gusta el rhythm and blues,music_likeness,music
+muéstranos el rojo,iot_hue_lightchange,iot
+es el veintitrés de abril un sábado,datetime_query,datetime
+que semana es hoy,datetime_query,datetime
+qué tiempo hace en mi pueblo,weather_query,weather
+ejecutar música de esta lista de reproducción,play_music,play
+dime cuando haya nuevas noticias de mis noticias locales,news_query,news
+cambia la opacidad del color,iot_hue_lightchange,iot
+reemplazar el color de claro a oscuro,iot_hue_lightchange,iot
+enciende wemo,iot_wemo_on,iot
+poner alarma a las seis de la mañana,alarm_set,alarm
+está oscuro aqui,iot_hue_lighton,iot
+olly cancela alarmas,alarm_remove,alarm
+siri borra las alarmas de yoga,alarm_remove,alarm
+olly sube el volumen,audio_volume_up,audio
+google mezcla la lista de reproducción,music_settings,music
+pon luego malamente,play_music,play
+qué tiempo hará el día siguiente,weather_query,weather
+el abuso de medicamentos recetados de dea guam en aumento,news_query,news
+me podrías decir por favor la predicción del tiempo para esta semana,weather_query,weather
+pondrías la cafetera en funcionamiento,iot_coffee,iot
+está demasiado brillante aquí puedes apagar una luz,iot_hue_lightoff,iot
+por favor añade esta canción a mi playlist favoritos,music_likeness,music
+por favor pon esta canción otra vez,play_music,play
+va a estar ventoso el jueves,weather_query,weather
+solo dame las noticias sobre donald trump,news_query,news
+olly hay alguna noticia actual sobre la elección presidencial,news_query,news
+cómo es probable que esté el clima en mi área hoy,weather_query,weather
+apaga la luz en la sala de dibujo,iot_hue_lightoff,iot
+dame las noticias más recientes,news_query,news
+cuántos goles marcó cristiano ronaldo ayer,news_query,news
+reproduce mi playlist para el gimnacio,play_music,play
+por favor apaga las luces del baño,iot_hue_lightoff,iot
+olle necesito llevar guantes hoy,weather_query,weather
+es necesario llevar paraguas para salir,weather_query,weather
+iniciar la reproducción lista de reproducción agregada recientemente,play_music,play
+muestra las noticias actuales de el país,news_query,news
+muestra noticias rtve en vivo,news_query,news
+como se está afuera,weather_query,weather
+como está el tiempo en sóller mallorca hoy,weather_query,weather
+dime qué horario de alarmas tienes puestas,alarm_query,alarm
+me puedes dar las noticias locales sobre la guardia civil,news_query,news
+reproducir desde mi lista de reproducción,play_music,play
+pasa a la zona horaria del este,datetime_convert,datetime
+en que día de la próxima semana cae el veinte y cuatro,datetime_query,datetime
+que hay de nuevo en itunes,music_query,music
+por favor muestra el tiempo del veintisiete de marzo de dos mil diecisiete,weather_query,weather
+como son las noticias en irlanda,news_query,news
+pon que el aspirador limpiar la cocina,iot_cleaning,iot
+por favor dame detalles de o. canción de zaalima,music_query,music
+borra mi alarma de las cinco de la tarde,alarm_remove,alarm
+pon canciones de flamenco,play_music,play
+voy a necesitar una chaqueta después de las diez de la mañana o no,weather_query,weather
+quiero leer noticias de yahoo,news_query,news
+debería traer guantes esta noche,weather_query,weather
+necesito una chaqueta hoy,weather_query,weather
+olly haz que las luces sean más brillantes,iot_hue_lightup,iot
+activa solo un color de luz diferente,iot_hue_lightchange,iot
+activar un color de luz diferente,iot_hue_lightchange,iot
+cuál es la última encuesta sobre la opinión pública del presidente trump,news_query,news
+favorito esta música,music_likeness,music
+que día es el veintidos de mayo,datetime_query,datetime
+pon modo silencio hasta que digan lo contrario,audio_volume_mute,audio
+repite la canción actual que se está reproduciendo,music_settings,music
+por favor infórmame de mi alarma por la mañana par días entre semana,alarm_query,alarm
+gracias a ally por las fotos,general_quirky,general
+toca algo de rap de la vieja escuela,play_music,play
+léeme las noticias del día,news_query,news
+volvieron juan y maría juntos,news_query,news
+pon alarma el veinticinco de mayo a las cinco de la tarde,alarm_set,alarm
+por favor enciende mi música,play_music,play
+asistente pon en aleatorio la biblioteca entera,play_music,play
+el taco bell más cercano,takeaway_order,takeaway
+reproducir en orden aleatorio la playlist azul,play_music,play
+reportar configuraciones de alarma,alarm_query,alarm
+temperatura ahora,weather_query,weather
+mezcla y toca todas las canciones de la artista shakira,play_music,play
+voy a necesitar protector solar este fin de semana,weather_query,weather
+debería coger algo de sal descongeladora en la tienda,weather_query,weather
+activar el enchufe wemo,iot_wemo_on,iot
+sólo dime la fecha de hoy,datetime_query,datetime
+el tiempo se actualiza al usar segundos por tiempo de bits o bien actualiza las previsiones del meteo o aemet ambos bastante pobres para mi sitio,weather_query,weather
+toque iniciar y luego seleccione configuración,alarm_query,alarm
+qué hora es en madrid españa,datetime_query,datetime
+tocar canciones de fiesta,play_music,play
+ricky martin,play_music,play
+empezar a limpiar la casa,iot_cleaning,iot
+debo ponerme una chaqueta para trabajar,weather_query,weather
+puede hablar más alto,audio_volume_up,audio
+incrementa la intensidad de todas las luces del cuarto,iot_hue_lightup,iot
+por favor ponme la canción de madonna otra vez,play_music,play
+el grabador de voz orevena es una pagina donde puedo grabar canciones,play_music,play
+clima,weather_query,weather
+en que día cae mi cumpleaños el próximo año,datetime_query,datetime
+que día de la semana es el doce,datetime_query,datetime
+pon artista,play_music,play
+el restaurante manolo entrega comida para llevar,takeaway_query,takeaway
+habrá niebla después de la puesta del sol,weather_query,weather
+despertador,datetime_query,datetime
+ponga una alarma para las cinco en punto de esta noche etiquetada taxi,alarm_set,alarm
+tiempo en mi pueblo,weather_query,weather
+toca la cuarta canción del mismo album después de esta canción,play_music,play
+activa robot aspirador,iot_cleaning,iot
+es este el día mas caliente en sevilla,weather_query,weather
+háblame sobre los temporizadores de alarma,alarm_query,alarm
+significado de una palabra en particular,general_quirky,general
+escuchar música,play_music,play
+voy a necesitar un chubasquero para esta noche,weather_query,weather
+comercio internacional y mercado empresarial,news_query,news
+puedes silenciarte un rato por favor,audio_volume_mute,audio
+quiero pedir comida,takeaway_order,takeaway
+a qué hora tienes alarmas programadas para mi,alarm_query,alarm
+me gustaría un poco de café ahora,iot_coffee,iot
+preparar mi café de la mañana,iot_coffee,iot
+tiempo para un cafe,iot_coffee,iot
+está mi pedido del domino's pizza preparado,takeaway_query,takeaway
+donde puedo recoger mi comida china,takeaway_query,takeaway
+abre reloj,alarm_set,alarm
+siguiente reproducir la canción seleccionada,play_music,play
+alexa aumenta el brillo de la luz es difícil ver aquí abajo,iot_hue_lightup,iot
+está mi orden lista para recoger ya,takeaway_query,takeaway
+alarma,alarm_set,alarm
+necesito llevarme un paraguas esta tarde,weather_query,weather
+pon la canción de daddy yankee,play_music,play
+oye va a llover hoy en malasaña madrid,weather_query,weather
+hola olly cómo está el tiempo en palma mallorca,weather_query,weather
+pon michael buble save the last dance,play_music,play
+hola alexa pide dos alas de pollo con papas fritas del restaurante chino,takeaway_order,takeaway
+oye alexa pide una pizza carbonara con extra de queso,takeaway_order,takeaway
+hola siri que hora es en granada andalucía,datetime_query,datetime
+reproducir algo cosa en mi lista de reproducción reciente,play_music,play
+pon cualquier cosa de mi playlist reciente,play_music,play
+dame información sobre la canción que está sonando,music_query,music
+se gracioso por mi,general_joke,general
+olly debo ponerme los guantes o no,weather_query,weather
+dime el tiempo para el próximo mes,weather_query,weather
+debería ponerme varias capas hoy,weather_query,weather
+mira el pronóstico del tiempo de esta semana,weather_query,weather
+enséñame el pronóstico del tiempo para una semana,weather_query,weather
+puedo recibir la entrega desde aquí,takeaway_query,takeaway
+el metro estuvo muy ocupado hoy,general_quirky,general
+cuentame sobre mi dia,general_quirky,general
+dolores notas algo extraño en tu mundo,general_quirky,general
+quieres escuchar lo que ha pasado hoy,general_quirky,general
+como me conoces,general_quirky,general
+sería genial cenar en este nuevo restaurante abierto en el centro,general_quirky,general
+hoy obtuve recompensas olly,general_quirky,general
+tuve muchas reuniones hoy,general_quirky,general
+de donde eres,general_quirky,general
+el tiempo esta soleado hoy,general_quirky,general
+oye google gane un gran premio de loteria de un millon de dolares,general_quirky,general
+dime las noticias importantes de hoy,news_query,news
+como esta el dia hoy,general_quirky,general
+huevos wakey wakey y panaderia,general_quirky,general
+que ha pasado,general_quirky,general
+algo interesante en las noticias de hoy,news_query,news
+me han invitado al pub el sábado,general_quirky,general
+dime una buena bebida alcohólica,general_quirky,general
+dime algo sobre américa,general_quirky,general
+deportes,general_quirky,general
+oye que buenas peliculas saldran pronto,general_quirky,general
+que haces con mis datos personales,general_quirky,general
+cuando quiero que tome notas,general_quirky,general
+mi plan semanal,calendar_query,calendar
+trivia,general_quirky,general
+temas de wikipedia,general_quirky,general
+las razas de perros mas hiperalergicas,general_quirky,general
+me metí en un accidente hoy,general_quirky,general
+fui a walmart hoy,general_quirky,general
+chistes sarcásticos,general_joke,general
+noticias de ocio,news_query,news
+móvil,general_quirky,general
+me empape bajo la lluvia,general_quirky,general
+moda,general_quirky,general
+horario,calendar_query,calendar
+dame respuestas,general_quirky,general
+marca el día de hoy como mi día trampa,calendar_set,calendar
+te gusta mi novia,general_quirky,general
+háblame de rihanna,general_quirky,general
+qué pasa en new york,recommendation_events,recommendation
+que hice esta vez,general_quirky,general
+como estuvo tu dia,general_quirky,general
+el cosmos,general_quirky,general
+niveles de calefacción a que hora en el apartamento,general_quirky,general
+chistes,general_joke,general
+cocine,cooking_query,cooking
+tasas de previsión,general_quirky,general
+muy agitado,general_quirky,general
+consejos recientes sobre seo en google,general_quirky,general
+chiste del dia,general_joke,general
+ingredientes necesarios en la tienda de comestibles,general_quirky,general
+como va,general_quirky,general
+si pudieras hablar de tres cosas cuales serian,general_quirky,general
+investigacion del espacio,general_quirky,general
+libros,general_quirky,general
+chismeando sobre famosos,general_quirky,general
+olly cuál es mi agenda para lo que queda de semana,calendar_query,calendar
+borrar mi día de reuniones,calendar_remove,calendar
+por favor pon en mi calendario despertarme diariamente a las diez a. m.,calendar_set,calendar
+cuándo es mi próxima reunión,calendar_query,calendar
+cancela mi llamada diaria de las cinco de la tarde,calendar_remove,calendar
+programa una cita con carlota,calendar_set,calendar
+cuando es eso,general_quirky,general
+tengo algún evento hoy,calendar_query,calendar
+tengo yo algo reservado para mañana,calendar_query,calendar
+di me acerca de mis eventos,calendar_query,calendar
+olly recuérdame el picnic en el retiro,calendar_set,calendar
+olly quiero ir al cine al aire libre este fin de semana recuérdamelo,calendar_set,calendar
+has añadido una reunión con tomás para mañana a las nueve de la tarde,calendar_query,calendar
+elimina todos los eventos de los próximos cinco días,calendar_remove,calendar
+tengo alguna reunión mañana a las nueve p. m.,calendar_query,calendar
+programa el siguiente evento en el calendario con las siguientes personas,calendar_set,calendar
+puedes borrar el evento pasado que yo visité,calendar_remove,calendar
+tengo algún evento próximo en mi calendario,calendar_query,calendar
+cuándo es mi próxima cita en calendario,calendar_query,calendar
+borra la fiesta de cumpleaños mañana a las dos de la tarde,calendar_remove,calendar
+es muy dificil,general_quirky,general
+necesito un recordatorio todos los días a las nueve de la mañana,calendar_set,calendar
+quién debería esperar yo que esté en la reunión de hoy,calendar_query,calendar
+pon reunión del lunes en agenda todos los lunes,calendar_set,calendar
+programa una notificación para el seis de marzo que hay una reunión de la sociedad a las once a. m.,calendar_set,calendar
+hay algún programa para mañana por la algún,calendar_query,calendar
+eliminar todos los eventos e información,calendar_remove,calendar
+elimina todos los eventos y horarios,calendar_remove,calendar
+de qué va mi evento programado para mañana,calendar_query,calendar
+recuérdame la reunión de mañana a las diez de la mañana,calendar_set,calendar
+cuántas reuniones tengo yo esta semana,calendar_query,calendar
+deja el calendario limpio,calendar_remove,calendar
+por favor recuerda me una hora antes de la reunión que yo tengo mañana por la mañana,calendar_set,calendar
+cuál es mi horario de tarde de mañana,calendar_query,calendar
+últimos eventos,calendar_query,calendar
+programar una cita para alex mañana,calendar_set,calendar
+hay algún evento próximo en mi calendario,calendar_query,calendar
+poner un recordatorio para las vacaciones el mes que viene,calendar_set,calendar
+calendario claro para este mes,calendar_remove,calendar
+pon una alarma dentro de dos horas por favor,alarm_set,alarm
+tengo que hacer algo este sábado entre las dos y las cuatro de la tarde,calendar_query,calendar
+por favor borra todos los eventos de mi calendario para el resto del día,calendar_remove,calendar
+que eventos hay en mi calendario para hoy,calendar_query,calendar
+cuáles son mis eventos de calendario,calendar_query,calendar
+tengo algún recordatorio hoy,calendar_query,calendar
+elimina la reunión de hoy por la noche,calendar_remove,calendar
+avísame la mañana de la cita con el médico del doce,calendar_set,calendar
+crer una entrada de calendario para almorzar el sábado por la mañana con pedro lesma y tomás,calendar_set,calendar
+recuérdame quedar con virginia hoy a las seis de la tarde,calendar_set,calendar
+cuándo es la reunión con mi jefe la próxima semana,calendar_query,calendar
+borra la boda del día diez de mi calendario,calendar_remove,calendar
+qué hacer a continuación en los eventos,calendar_query,calendar
+tengo una cita mañana recuérdame,calendar_set,calendar
+cuatro de la tarde,calendar_set,calendar
+veré a mi terapeuta cada jueves a las dos de la tarde,calendar_set,calendar
+cancelar,calendar_remove,calendar
+quiero ir al cumpleaños de sally el sábado a las diez de la noche,calendar_set,calendar
+que tengo que hacer yo la semana que viene,calendar_query,calendar
+dime la fecha de inauguración de la empresa de mi amigo antón,calendar_query,calendar
+por favor marca en mi agenda vacaciones a cuba el dos de abril,calendar_set,calendar
+recuerda me a las ocho de la tarde que tengo que tomar mi medicamento,calendar_set,calendar
+cuando empezará el partido,calendar_query,calendar
+qué tengo yo programado para mañana necesito cancelar,calendar_remove,calendar
+establecer recordatorio para la reunión a las tres de la tarde mañana,calendar_set,calendar
+recuérdame que recoja la colada el próximo lunes,calendar_set,calendar
+establecer un recordatorio de que tengo que visitar a mi padre mañana,calendar_set,calendar
+agregar al calendario un evento de reunión para esta tarde,calendar_set,calendar
+cual es mi primera cita hoy,calendar_query,calendar
+qué tengo en mi agenda para hoy,calendar_query,calendar
+recuerdame la reunión con ricardo para almorzar mañana,calendar_set,calendar
+puedes fijar la ubicación en casa de mi hermana para este evento,calendar_set,calendar
+añade cumpleaños roberto el doce de julio a mi agenda,calendar_set,calendar
+en agenda pon que tenemos cena con fran a las ocho de la tarde el nueve de agosto,calendar_set,calendar
+cuál es la lista de eventos de mi calendario en marzo,calendar_query,calendar
+cuando esta programada la boda,calendar_query,calendar
+qué reuniones hay available en marzo,calendar_query,calendar
+por favor revisa el tercer evento del veintidós de marzo de dos mil diecisiete,calendar_query,calendar
+agregue el día de san valentín con ella mañana,calendar_set,calendar
+añade cumpleaños con mamá el próximo mes,calendar_set,calendar
+crear una reunión con mi amigo,calendar_set,calendar
+asistir a la fiesta antes de la reunión,calendar_set,calendar
+por favor crea un evento solo con estas personas,calendar_set,calendar
+recuerda recogerme a las doce del mediodía del aeropuerto tengo una reunión a las tres de la tarde,calendar_set,calendar
+programa una reunión con joan el diez de marzo,calendar_set,calendar
+recuerda arreglar una reunión entre los jugadores y yo mañana por la tarde noche a las siete,calendar_set,calendar
+cuáles son mis actuales alertas,calendar_query,calendar
+recuérda me la entrevista de mañana,calendar_set,calendar
+pon cómo evento que se repite,calendar_set,calendar
+programar una reunión el martes,calendar_set,calendar
+que pasó en la reunión de ayer,calendar_query,calendar
+por favor agregue mi próxima reunión,calendar_set,calendar
+establecer recordatorio para mañana para este artículo,calendar_set,calendar
+llamar persona para la reunión,calendar_set,calendar
+cuando es el ciclo de facturación,calendar_query,calendar
+programa un temporizador de cinco minutos para las galletas,calendar_set,calendar
+cuándo empieza el partido de hockey del viernes,calendar_query,calendar
+por favor borra todos mis eventos del calendario,calendar_remove,calendar
+recuérda me hacer una pizza mañana por la mañana,calendar_set,calendar
+programa una oración al mediodía todos los viernes,calendar_set,calendar
+no te olvides de recordarme el cumpleaños de mi hermano el veinte de abril,calendar_set,calendar
+quiero agregar una cita para almuerzo con miguel juan y andrés,calendar_set,calendar
+recuérdame la próxima reunión a las cuatro de la mañana de hoy,calendar_set,calendar
+enumera la próxima reunión,calendar_set,calendar
+buscar y eliminar todos mis eventos de fin de semana con tamara conde,calendar_remove,calendar
+acuérdate de recordarme esto,calendar_set,calendar
+hey olly programa un recordatorio para la reunión de mañana a las diez de la mañana,calendar_set,calendar
+por favor dime los recordatorios pendientes,calendar_query,calendar
+cuéntame sobre la reunión que tengo esta semana,calendar_query,calendar
+tengo un cumpleaños el lunes fija el evento,calendar_set,calendar
+tengo un vuelo el quince,calendar_set,calendar
+programar un evento para la tarde,calendar_set,calendar
+establecer el cumpleaños de javier para cada tres de junio,calendar_set,calendar
+recuérdame que vaya a la tienda todos los viernes,calendar_set,calendar
+elimina hacer la compra de mi agenda del sábado,calendar_remove,calendar
+borrar todos los datos de mi calendario,calendar_remove,calendar
+que tengo que hacer el lunes,calendar_query,calendar
+repite un evento en mi calendario,calendar_set,calendar
+hay alguna forma de seguir delante y borrar mi calendario para el mes,calendar_remove,calendar
+añade mi práctica en parque del rey del cuatro de febrero a las dos de la tarde,calendar_set,calendar
+por favor recuérdame el cumpleaños de andrés,calendar_set,calendar
+cómo tengo el horario de hoy,calendar_query,calendar
+agregar una nota para asistir,calendar_set,calendar
+crea un recordatorio que se repita todos los días a las ocho a. m. para mis tareas del trabajo,calendar_set,calendar
+despeja mi horario,calendar_remove,calendar
+tengo que estar en algún lado entre las ocho de la mañana y las cinco de la tarde hoy,calendar_query,calendar
+qué recordatorios tengo para esta semana,calendar_query,calendar
+añadir evento para el entrenamiento de baloncesto a las cinco de la tarde esta noche,calendar_set,calendar
+cómo será mi mañana mañana,calendar_query,calendar
+quién va a asistir a la reunión este viernes,calendar_query,calendar
+qué pasó entre el segundo y el décimo quinto,news_query,news
+cuénta me todos los eventos entre hoy y el veintiuno,calendar_query,calendar
+por favor ponme al día sobre las elecciones cada treinta minutos,calendar_set,calendar
+tengo alguna cita hoy,calendar_query,calendar
+abrir calendario eliminar todos los eventos,calendar_remove,calendar
+recordar mi examen de biología en la universidad de sevilla el viernes,calendar_set,calendar
+que es el veinte de noviembre,calendar_query,calendar
+cuál es el horario del próximo concierto de maggie rogers,calendar_query,calendar
+qué tengo que saber sobre el show,calendar_query,calendar
+quién y por qué está en el teatro esta noche,recommendation_events,recommendation
+hay algún recordatorio establecido para hoy,calendar_query,calendar
+por favor elimina la reunión de padres y profesores programada para el siete de marzo,calendar_remove,calendar
+tengo yo una reunión para hoy en mi calendario,calendar_query,calendar
+por favor establece un recordatorio para ir a trabajar en diez minutos,calendar_set,calendar
+cuántas reuniones tengo la próxima semana,calendar_query,calendar
+el catorce de febrero hacer reservaciones para cenar en el restaurante,calendar_set,calendar
+es esta semana la semana de recolección de basura,calendar_query,calendar
+a que hora empieza la cena de fiesta esta noche,calendar_query,calendar
+cuando es mi próximo recordatorio,calendar_query,calendar
+cuéntame todos los detalles conocidos sobre el torneo del veintidós de marzo,calendar_query,calendar
+programar el almuerzo en tomo en arcata california mañana al mediodía,calendar_set,calendar
+tengo una cita el viernes,calendar_query,calendar
+envíeme un recordatorio para recoger a mi perro del peluquero a la una por la tarde,calendar_set,calendar
+cuándo es mi reunión,calendar_set,calendar
+olly envíame un correo electrónico con mis citas para reprogramar,email_sendemail,email
+alterar el evento del almuerzo para repetir cada viernes,calendar_set,calendar
+reunión actualizar mi calendario para reflejar la reunión,calendar_set,calendar
+cuándo saldrán los trenes mañana,calendar_query,calendar
+fija un recordatorio a las tres p. m. para recoger a gema,calendar_set,calendar
+cancela mi reunión del catorce,calendar_remove,calendar
+dame información sobre el concierto del martes por la noche,calendar_query,calendar
+yo necesito que me recuerden que hay una reunión para la jubilación de paul recordatorio para el martes a las tres de la tarde,calendar_set,calendar
+que esta pasando en ese evento,recommendation_events,recommendation
+qué tengo que hacer esta mañana entre las diez y las doce,calendar_query,calendar
+a qué hora es la reunión vespertina que tengo con john,calendar_query,calendar
+recordarme que tengo que levantarme a las cinco de la mañana cada día,alarm_set,alarm
+más sobre el concierto en sala caracol,calendar_query,calendar
+siri recuerda me la reunión de mañana esta noche,calendar_set,calendar
+notificación de la reunión el miércoles,calendar_set,calendar
+agregar mi próxima reunión a mi calendario,calendar_set,calendar
+completamente claro mi calendario por favor,calendar_remove,calendar
+por favor borre la reunión que tengo con óscar esta noche,calendar_remove,calendar
+establecer un recordatorio los miércoles a las dos de la tarde,calendar_set,calendar
+es cierto que el cumpleaños de antonia es el primero de marzo,calendar_query,calendar
+agregaste la reunión de mañana a mi calendario,calendar_query,calendar
+agregue reuniones de almuerzo al mediodía todos los días de esta semana,calendar_set,calendar
+establecer un recordatorio para la reunión del viernes a las tres p. m.,calendar_set,calendar
+borrar todo del calendario,calendar_remove,calendar
+hola siri asegúrate de que mi calendario esté completamente despejado mañana,calendar_remove,calendar
+nueva notificación de reunión en dos horas,calendar_set,calendar
+recuérdame acerca del calendario,calendar_set,calendar
+hay citas pendientes esta mañana,calendar_query,calendar
+es esta semana una semana de día de pago,calendar_query,calendar
+cancelar todas las citas en mi calendario,calendar_remove,calendar
+que recordatorios he configurado,calendar_query,calendar
+cuáles son las noticias de las seis y cuarenta y cinco de la mañana hoy,calendar_query,calendar
+eliminar mi evento a la una p. m. en mi calendario,calendar_remove,calendar
+solo recuérdame que tengo que estar en la biblioteca semana desde hoy a las cinco,calendar_set,calendar
+establecer un recordatorio para el próximo sábado ir a la biblioteca a las cinco en punto,calendar_set,calendar
+avísame sobre la siguiente fiesta nacional,calendar_set,calendar
+eliminar mi evento de calendario a la una p. m. hoy dia,calendar_remove,calendar
+establecer un recordatorio para mi reunión a las cinco p. m.,calendar_set,calendar
+por favor agregue una cita a las nueve de la mañana del miércoles en la oficina del doctor salgado,calendar_set,calendar
+cuáles fueron los aspectos más destacados del partido de fútbol de esta noche,calendar_query,calendar
+dime que tengo en mi agenda para hoy,calendar_query,calendar
+cuándo vendrá bruno mars a salamanca,calendar_query,calendar
+quiero agregar algo a mi calendario,calendar_set,calendar
+elimina el evento del calendario y actualiza,calendar_remove,calendar
+qué eventos tengo yo por venir,calendar_query,calendar
+cancela el próximo evento de la agenda,calendar_remove,calendar
+cancele el próximo evento en el calendario,calendar_remove,calendar
+qué reuniones tengo entre las ocho y las diez hoy,calendar_query,calendar
+recuérdame mañana a las dos p. m.,calendar_set,calendar
+programa un evento en mi calendario para la fiesta en la piscina en casa de jose este sábado,calendar_set,calendar
+cuál es la dirección del evento programado para el uno de enero,calendar_query,calendar
+quiero quedar con sara mañana,calendar_set,calendar
+cancelar mi reunión del martes con sandra y reubicarla el jueves,calendar_set,calendar
+elimina la comida del jueves de mi calendario,calendar_remove,calendar
+programa y evento para el día quince de cada mes para recordarme que debo pagar mi factura de internet,calendar_set,calendar
+agregue la siguiente fecha y hora a mi calendario,calendar_set,calendar
+cuándo es el evento,calendar_query,calendar
+añade un evento que empiece a as tres de la tarde en sevilla andalucía el cinco de mayo para la graduación de dan,calendar_set,calendar
+en el ultimo año cuantas horas he estado en reuniones,calendar_query,calendar
+eliminar reunión,calendar_remove,calendar
+tengo una reunión con pepi el veintiuno de marzo a las diez,calendar_set,calendar
+necesito prepararme para una reunión,calendar_query,calendar
+enséñame mis próximos eventos,calendar_query,calendar
+dice mi calendario si estoy libre el uno de abril de dos mil diecisiete,calendar_query,calendar
+establecer un recordatorio de cita semanal,calendar_set,calendar
+marcar dentro de dos días como mis vacaciones,calendar_set,calendar
+tengo algo programado para el siete de marzo,calendar_query,calendar
+olly programa mi cita médica del viernes a las dos de la tarde,calendar_set,calendar
+puedes agregar mis reservas para cenar a mi calendario,calendar_set,calendar
+establecer información de calendario para el matrimonio de albert,calendar_set,calendar
+tengo algún evento en el calendario hoy,calendar_query,calendar
+lugar de vacaciones en mi ubicación,recommendation_events,recommendation
+búsqueda de acontecimientos recientes en fechas concretas,recommendation_events,recommendation
+tengo algún recordatorio en mi lista,calendar_query,calendar
+por favor recuérdame,calendar_set,calendar
+por favor pon una alarma para,alarm_set,alarm
+necesito que me recuerden las reuniones del lunes,calendar_set,calendar
+es falso el evento del calendario,calendar_query,calendar
+eliminar todas mis reuniones por el resto de la semana,calendar_remove,calendar
+añadir al calendario el dos de mayo es el cumpleaños de mary repetir cada año,calendar_set,calendar
+quiero que me recuerdes que me lleve mi chubasquero porque puede llover,calendar_set,calendar
+por favor dime que me lleve el paraguas porque hoy va a hacer mucho calor,calendar_set,calendar
+cuál es mi programa para el catorce de junio de dos mil diecisiete,calendar_query,calendar
+por favor borra todos los recordatorios del domingo,calendar_remove,calendar
+recuerda la cena del jueves en el bistro italia,calendar_set,calendar
+establecer recordatorio,calendar_set,calendar
+evento de calendario con estas personas,calendar_set,calendar
+limpia mi agenda para hoy,calendar_remove,calendar
+detalles,calendar_query,calendar
+dime acerca de los últimos eventos,calendar_query,calendar
+cuándo son la reuniones,calendar_query,calendar
+cuando esta programada la fiesta,calendar_query,calendar
+notificarme todos los eventos de la próxima semana,calendar_set,calendar
+aniversario de boda de jesús,calendar_set,calendar
+cuando hay festivos este mes,calendar_query,calendar
+déjame saber sobre mi reunión del martes,calendar_set,calendar
+quiero que me recuerdes sobre el programa de la noche,calendar_set,calendar
+borra cumpleaños de lucas del calendario,calendar_remove,calendar
+ok google programar una reunión con el subdirector del departamento a veintiuno de marzo de dos mil diecisiete,calendar_set,calendar
+necesito una reunión con el controlador financiero el jueves,calendar_set,calendar
+elimina el evento de cumpleaños de mi calendari,calendar_remove,calendar
+acuérdame el cinco de abril que hay una reunión con el jefe,calendar_set,calendar
+crea un recordatorio para solicitar un visado este jueves,calendar_set,calendar
+hacer en blanco el tres de julio calendario,calendar_remove,calendar
+pon una alarma para martes a las cuatro de la tarde,alarm_set,alarm
+hacer un recordatorio de evento para la boda de virginia el martes,calendar_set,calendar
+pon un evento que se repita en el calendario,calendar_set,calendar
+estoy ocupado este fin de semana,calendar_query,calendar
+olly yo tengo una cita la semana que viene,calendar_query,calendar
+borrar el día de después del evento,calendar_remove,calendar
+recuerda reinciar los eventos que lo necesiten,calendar_set,calendar
+añade visita de mi hermana a mi calendario familia mi,calendar_set,calendar
+donde esta ubicado el centro de convenciones,qa_factoid,qa
+alguna reunión el viernes,calendar_query,calendar
+recuerda me que yo tengo cita a las doce en punto del sábado,calendar_set,calendar
+alexa tengo algún evento en el calendario este mes,calendar_query,calendar
+siri haz una entrada en calendario para el próximo sábado a las diez de la mañana por favor,calendar_set,calendar
+acuérdame de la reunión de el veintidós de enero,calendar_set,calendar
+recuérda me la reunión en una hora,calendar_set,calendar
+recordar en una hora mi reunión,calendar_set,calendar
+pon un algo de radio,play_radio,play
+abre los cuarenta estación rock,play_radio,play
+abra iheartradio rov la rock,play_radio,play
+sintonizar un canal de radio para los chistes buenos,play_radio,play
+radio tele taxi,play_radio,play
+por favor sintonice el canal de radio,play_radio,play
+me gustaria escuchar esa canal de radio,play_radio,play
+cambia la radio,play_radio,play
+puedes empezar fm ochocientos noventa canal de radio,play_radio,play
+pon melodía,play_radio,play
+enciende el emisora novecientos cincuenta y uno,play_radio,play
+radio encendida,play_radio,play
+ir a mi canal de radio favorito,play_radio,play
+pon una canción que me haga sonreir,play_music,play
+pon novecientos setenta y uno,play_radio,play
+pone cataluña radio por favor,play_radio,play
+toca bbc radio uno,play_radio,play
+por favor abra mi radio f. m. y reproduce novecientos ochenta y siete,play_radio,play
+olly quiero oír una emisora que ponga pop,play_radio,play
+pon el partido de fútbol en la radio,play_radio,play
+cuantos de mis podcasts de deportes tienen episodios nuevos que no haya escuchado,play_radio,play
+abre pandora y reproduce los mejores éxitos,play_radio,play
+por favor pon música popular en itunes,play_radio,play
+ponte radio famosa para mi,play_radio,play
+ponme algo de música de radio de cadena ser,play_radio,play
+por favor pon los mejores country,play_music,play
+reproducir programas de música en la radio,play_radio,play
+reproducir la lista de reproducción actual,play_music,play
+encuentra el faro del jazz en spotify,play_radio,play
+pon la emisora cadena dial en spotify,play_radio,play
+reproducir noticias en f. m.,play_radio,play
+reproduce el episodio de alejandro sanz faro del jazz de los vencejos,play_radio,play
+pon cadena cero,play_radio,play
+reproducir una emisora de radio de noticias,play_radio,play
+ok google puedes empezar anda ya,play_radio,play
+pon mi estación favorita a las veintiún horas,play_radio,play
+cadena ser,play_radio,play
+reproducir los programas en este pad requeridos,play_radio,play
+que estaciones estan poniendo buena música esta mañana,play_radio,play
+sintoniza kiss f. m.,play_radio,play
+pon una radio de flamenco,play_radio,play
+pon el programa nadie sabe nada,play_radio,play
+reproduce b. b. c. radio cuatro,play_radio,play
+pon este programa,play_radio,play
+puedes poner mi audiolibro favorito de harry potter,play_audiobook,play
+puedes poner el audiolibro de el tiempo entre costuras,play_audiobook,play
+empieza el capítulo siete de harry potter,play_audiobook,play
+reanuda audiolibro los besos,play_audiobook,play
+puedes pausar la radio,play_audiobook,play
+sigue reproduciendo mi audiolibro,play_audiobook,play
+pausar el audiolibro,play_audiobook,play
+abre el código davinci donde lo dejé,play_audiobook,play
+comeinza a reproducir el audiolibro de patria,play_audiobook,play
+reproducir audiolibros agregado recientemente,play_audiobook,play
+pon audio,play_audiobook,play
+reanuda mi audiolibro donde lo pausé la última vez,play_audiobook,play
+reanuda el último audiolibro reproducido,play_audiobook,play
+por favor reproduzca el audio recientemente pausado,play_audiobook,play
+reanudar mi audiolibro desde el principio del último capítulo que comencé,play_audiobook,play
+pon el circulo,play_audiobook,play
+tomemos un descanso de cinco minutos,play_audiobook,play
+empezar a leer el libro,play_audiobook,play
+reanudar el último reino para mí,play_audiobook,play
+abra el audiolibro de harry potter y reprodúzcalo desde la última vez que se reprodujo.,play_audiobook,play
+busca esta reproducción en audiolibro y reprodúcela para mí,play_audiobook,play
+por favor reanuda esta reproducción en audiolibro,play_audiobook,play
+escucha the martian del downpour,play_audiobook,play
+empieza a leer cincuenta tonos de gris desde el capítulo cuatro,play_audiobook,play
+reanudar una canción del audiolibro de michael jackson,play_audiobook,play
+reproducir audiolibro blanco como la nieve,play_audiobook,play
+puedes continuar con el audiolibro patria,play_audiobook,play
+pon audiolibro jai ho,play_audiobook,play
+reanudar la lectura de la lección de francés,play_audiobook,play
+por favor reproduce un resumen de algunos puntos importantes,play_audiobook,play
+empieza a leer ese libro de alan partridge,play_audiobook,play
+continúa con mi audiolibro por favor,play_audiobook,play
+seguir reproduciendo el tiempo entre costuras,play_audiobook,play
+olly reanuda las dos torres,play_audiobook,play
+reproducir desde este punto de este audiolibro,play_audiobook,play
+díme como se hace el pan de ajo,cooking_recipe,cooking
+cuánto tiempo para cocinar pasta,cooking_recipe,cooking
+qué puedo cocinar con brocoli y pollo,cooking_recipe,cooking
+enséñame como cocinar,cooking_recipe,cooking
+cómo puedo cocinar pasta,cooking_recipe,cooking
+qué ingredientes se pueden usar para reemplazar al vino blanco,cooking_recipe,cooking
+podría mostrar los vídeos para cocinar comida italiana,cooking_recipe,cooking
+olly como hago ensaladilla,cooking_recipe,cooking
+cómo se cocina la merluza,cooking_recipe,cooking
+qué comida más sexy para cocinar en una cita,cooking_recipe,cooking
+por cuánto tiempo tengo que poner la pizza en el horno para que esté crujiente,cooking_recipe,cooking
+cómo cocinar las judías verdes,cooking_recipe,cooking
+dame recetas,cooking_recipe,cooking
+usa google para mostrarme cómo cocinar,cooking_recipe,cooking
+dame las mejores ideas para cocinar,cooking_recipe,cooking
+muéstrame una receta de galletas,cooking_recipe,cooking
+cómo hacer galletas,cooking_recipe,cooking
+cuántas copas en un cuarto de hora,cooking_recipe,cooking
+cómo hornear una patata,cooking_recipe,cooking
+busca una receta de pizza,cooking_recipe,cooking
+cómo hago un pastel de carne,cooking_recipe,cooking
+búscame la receta d ela sopa de fideos con pollo,cooking_recipe,cooking
+busca menus sin gluten,cooking_recipe,cooking
+enséña me cómo cocinar una receta,cooking_recipe,cooking
+cómo cocinas una tortilla de queso,cooking_recipe,cooking
+consigue la receta para hacer pizza,cooking_recipe,cooking
+cazuela receta de pollo guisado,cooking_recipe,cooking
+puedes mostrar una receta de espaguetis,cooking_recipe,cooking
+muestra una receta para cocido madrileño,cooking_recipe,cooking
+recetas,cooking_recipe,cooking
+por cuánto tiempo horneo las pechugas de pollo,cooking_recipe,cooking
+receta de carne de cangrejo,cooking_recipe,cooking
+necesito algunas ideas para la cena que sean mexicanas,cooking_recipe,cooking
+no más comentarios,cooking_recipe,cooking
+cuál es el tiempo de cocción de los huevos hervidos,cooking_recipe,cooking
+encuentra una receta fácil de leche de almendras,cooking_recipe,cooking
+encuentra una receta para hacer estofado de pollo,cooking_recipe,cooking
+busca una receta de comida,cooking_recipe,cooking
+alexa juega ajedrez conmigo,play_game,play
+tengo ganas de jugar al ajedrez puedes jugar a eso,play_game,play
+qué tal un buen juego de ajedrez,play_game,play
+jugr solitario,play_game,play
+jugar un juego de carreras,play_game,play
+vamos a jugar pinball,play_game,play
+comienza a jugar serpiente,play_game,play
+quieres jugar un juego conmigo,play_game,play
+quiero que juegues a mi juego de fútbol desde el nivel quinto,play_game,play
+quiero jugar un partida de trivial,play_game,play
+encuentra un juego,play_game,play
+juega al parchís conmigo,play_game,play
+vamos a resolver el rompecabezas,play_game,play
+abre la saga de papa pear,play_game,play
+juguemos a damas,play_game,play
+jugar juegos,play_game,play
+puedes tomar un papel de enemigo en el juego de coc,play_game,play
+juega conmigo al ajedrez por favor,play_game,play
+puedes nombrar esa melodía,play_game,play
+puedes jugar póker conmigo,play_game,play
+juguemos warcraft,play_game,play
+juguemos tetris,play_game,play
+enumerar los artículos en mi lista de compras olly,lists_query,lists
+me gustaría cancelar el viaje a las vegas la semana que viene,lists_remove,lists
+qué hay en mi lista de la compra hoy,lists_query,lists
+tacha el pan de la lista de la compra,lists_remove,lists
+añadir el vodka a la lista de la compra para mi fiesta,lists_query,lists
+eliminar una lista de cosas para comprar,lists_remove,lists
+puedes crear una nueva lista,lists_createoradd,lists
+quita la lista de artículos de comida comprados la semana pasada,lists_remove,lists
+depende de lo visto,lists_remove,lists
+borrar lista,lists_remove,lists
+hacer lista,lists_createoradd,lists
+con qué supermercados tengo hecha una lista,lists_query,lists
+cuáles son mis listas,lists_query,lists
+que listas están disponibles,lists_query,lists
+encuentra la lista y quita manzana,lists_remove,lists
+borrar mi antiguas lista de canciones inglesas,lists_remove,lists
+por favor elimine una lista,lists_remove,lists
+añade este articulo a la lista,lists_createoradd,lists
+cuáles fueron las últimas cinco listas que hice,lists_query,lists
+envíame la última lista subida,lists_query,lists
+haz una lista de números para mi,lists_createoradd,lists
+créame una nueva lista por favor,lists_createoradd,lists
+qué hay en mi lista de qué hacer hoy,lists_query,lists
+que hago hoy,general_quirky,general
+marque el punto cinco en mi lista de tareas pendientes,lists_query,lists
+por favor muestra mi lista,lists_query,lists
+eliminar el archivo de excel de la lista,lists_remove,lists
+dime una lista de reproducción,music_query,music
+cuantos artículos de comida hay en la lista,lists_query,lists
+la lista no debería de tener ningún artículo de comida con el prefijo seco,lists_remove,lists
+crea una nueva lista antes de mañana,lists_createoradd,lists
+pon lápiz en mi lista de supermercado,lists_createoradd,lists
+por favor elimine este elemento de la lista,lists_remove,lists
+añadir supermercado la lista,lists_createoradd,lists
+lee la lista,lists_query,lists
+reúne mi lista,lists_query,lists
+dime que listas tengo,lists_query,lists
+eliminar el elemento tres,lists_remove,lists
+qué contiene la lista,lists_query,lists
+por favor agregue este artículo a la lista,lists_createoradd,lists
+mostrar listas disponibles,lists_query,lists
+puedes decirme por favor que tengo en mi lista,lists_query,lists
+eliminar la pimienta de mi lista de la compra,lists_remove,lists
+añade algo a mi lsita,lists_createoradd,lists
+traductor google,lists_query,lists
+vuelve a leer lo que he puesto en mi lista de tareas para esta semana,lists_query,lists
+leer artículos de la lista de compras,lists_query,lists
+agregar cereales a mi lista de la compra,lists_createoradd,lists
+hay huevos en mi lista de compras,lists_query,lists
+tengo una lista de contactos para la fiesta que estoy planeando,lists_query,lists
+quita el articulo de la lista,lists_remove,lists
+por favor añade la leche a la lista de la compra,lists_createoradd,lists
+podrías mostrar me mis listas,lists_query,lists
+abre listas quita lista,lists_remove,lists
+olly qué es lo siguiente en mi lista,lists_query,lists
+quita la leche de mi lista de la compra,lists_remove,lists
+por favor dime que listas he hecho,lists_query,lists
+reorganizar eso de la lista,lists_remove,lists
+deja la lista,lists_remove,lists
+olly qué más tengo en la lista,lists_query,lists
+añadir compras a mi lista para hacer hoy,lists_createoradd,lists
+por favor dime cómo puedo eliminar el artículo,lists_remove,lists
+puedo comprobar mis listas,lists_query,lists
+hice una lista de compra,lists_query,lists
+retire el artículo de mi lista,lists_remove,lists
+crear una nueva lista de,lists_createoradd,lists
+dime que hay sobre esta lista,lists_query,lists
+por favor elimine la primera lista,lists_remove,lists
+eliminar la reunión del miércoles por la mañana,calendar_remove,calendar
+crear una nueva lista de mis facturas pendientes,lists_createoradd,lists
+léeme mi lista,lists_query,lists
+hacer una lista para el trabajo,lists_createoradd,lists
+por favor elimine la lista titulada futball,lists_remove,lists
+no quier mas esta lista,lists_remove,lists
+que listas están disponibles ahora,lists_query,lists
+borra la última linea,lists_remove,lists
+añadir una nueva lista para material escolar,lists_createoradd,lists
+suprímase el periódico de mi lista de vacaciones,lists_remove,lists
+lee mi lista de compras para hoy,lists_query,lists
+lo que hay en la lista para hoy,lists_query,lists
+incluir un elemento en una lista,lists_createoradd,lists
+eliminar la compra de comestibles de la lista,lists_remove,lists
+ya no tenemos pintura así que quítalo de la lista de la pintura de baño,lists_remove,lists
+recuérdame pedir más jabón,lists_createoradd,lists
+abrir mi lista,lists_query,lists
+eliminar la última canción reproducida,lists_remove,lists
+por favor añade a rosa a mi lista de contactos,email_addcontact,email
+puedes leerme mis listas,lists_query,lists
+eh qué hay en mis listas,lists_query,lists
+oye cuáles son mi listas,lists_query,lists
+puedes decirme que artículos estan en mi lista de la compra,lists_query,lists
+qué es esto en la lista,lists_query,lists
+borrar una lista,lists_remove,lists
+cancela la leche de la lista de la compra,lists_remove,lists
+añade leche a mi lista de la compra,lists_createoradd,lists
+quita la lista de musica de santana,lists_remove,lists
+que esta en esta lista especifica,lists_query,lists
+puedo ver mis listas del trabjao,lists_query,lists
+añade esto a la lista,lists_createoradd,lists
+por favor elimine mi lista de tareas pendientes de hoy,lists_remove,lists
+no quiero huevos,lists_remove,lists
+lista de lo que hay disponbile,lists_query,lists
+crear una lista de la compra mensual pendiente,lists_createoradd,lists
+mi programa de trabajo,calendar_query,calendar
+mi plan de salud,lists_query,lists
+añade pásteles a la lista de navidad,lists_createoradd,lists
+eliminar la lista de cosas por hacer,lists_remove,lists
+borra la lista vieja de reproducción y crea una nueva,lists_createoradd,lists
+comprobar lista,lists_query,lists
+cuántos elementos hay en mi lista de tareas,lists_query,lists
+comprueba mi lista,lists_query,lists
+puedes adelantar un episodio en el podcast,play_podcasts,play
+reproducir el siguiente episodio,play_podcasts,play
+localizar mi podcast,play_podcasts,play
+pasar al siguiente episodio,play_podcasts,play
+reproducir el podcast de la razón más reciente,play_podcasts,play
+reproduce el séptimo episodio de anda ya,play_podcasts,play
+encuentra y crea una lista de reproducción de las últimas pistas de baile,play_music,play
+organiza y pon todas las canciones de nach,play_music,play
+reproduce el podcast desde el principio,play_podcasts,play
+oye pon ese podcast que dejé anoche,play_podcasts,play
+salta al siguiente podcast,play_podcasts,play
+reproducir el siguiente podcast,play_podcasts,play
+quiero escuchar el podcast de mcs,play_podcasts,play
+favorito,play_podcasts,play
+adelanta por favor,play_podcasts,play
+busca podcast y reprodúce lo,play_podcasts,play
+puedes reproducir mi archivo de música,play_music,play
+termina este podcast empezar de nuevo,play_podcasts,play
+escuchar el último podcast de duncan trussel,play_podcasts,play
+reproducir el último próximo episodio,play_podcasts,play
+iniciar podcast diario de mlb,play_podcasts,play
+muéstrame los podcasts mejor calificados,play_podcasts,play
+pon el episodio de ted en español en cola,play_podcasts,play
+tocar canciones clásicastocar canciones clásicas,play_music,play
+reproducir podcast dementes,play_podcasts,play
+retrocede un episodio,play_podcasts,play
+botón de rebobina,play_podcasts,play
+muéstrame el último episodio,play_podcasts,play
+pon el podcast de entiende tu mente,play_podcasts,play
+reproducir el podcast de mariano rajoy guardado en el dispositivo,play_podcasts,play
+podcast de la red,play_podcasts,play
+mucho más claro y orientado a temas,play_podcasts,play
+mecano,play_podcasts,play
+pon el episodio más actual de ricardo ponce,play_podcasts,play
+quiero escuchar este podcast,play_podcasts,play
+qué nuevas películas se proyectan en los cines esta semana,recommendation_movies,recommendation
+hay exposiciones caninas cerca de la ciudad de nueva york,recommendation_events,recommendation
+dónde está el pub más cercano de la ciudad,recommendation_locations,recommendation
+que conciertos hay ahora cerca,recommendation_events,recommendation
+que películas estan presentado en cinesa,recommendation_movies,recommendation
+qué exhibiciones o espectáculos están programados en el teatro real,recommendation_events,recommendation
+a dónde debo ir para comer comida mexicana en mi área,recommendation_locations,recommendation
+necesito un poco de sushi lo que está más cerca,recommendation_locations,recommendation
+buscar restaurantes chinos cercanos,recommendation_locations,recommendation
+dónde está el festival gastronómico esta noche,recommendation_events,recommendation
+estoy buscando algunos desfiles de vestidos puedes encontrar tiendas de ropa dentro de una milla,recommendation_locations,recommendation
+donde esta el restaurante mas cercano,recommendation_locations,recommendation
+olly indicame la posicion exacta de la tienda,recommendation_locations,recommendation
+qué nuevas películas están disponibles hoy,recommendation_movies,recommendation
+muéstrame unos patio de comidas más cercano a mi ubicación,recommendation_locations,recommendation
+buenas tiendas de bicicletas en valencia,recommendation_locations,recommendation
+mejor bar en el área local,recommendation_locations,recommendation
+dime todos los eventos locales,recommendation_events,recommendation
+cerca de la tienda de alimentos,recommendation_locations,recommendation
+qué película de comedia romántica puedo ver en los cines de nueva york,recommendation_movies,recommendation
+haga una lista de tareas pendientes mientras visita el parque nacional de yellowstone,recommendation_events,recommendation
+qué debo hacer cuando visite el parque nacional yellowstone,recommendation_events,recommendation
+que esta pasando alrededor mio,recommendation_events,recommendation
+teatros cerca de mí,recommendation_movies,recommendation
+qué eventos de la feria del libro se llevarán a cabo la próxima semana en madrid,recommendation_events,recommendation
+cuál es el cine más cercano que reproduce la nueva película de vin diesel,recommendation_movies,recommendation
+qué eventos se celebran en la ciudad de nueva york,recommendation_events,recommendation
+todo sobre mi madre,recommendation_movies,recommendation
+quién vende los netbooks más baratos en el sur de austin,recommendation_locations,recommendation
+cuál es la mejor tienda de ropa aquí,recommendation_locations,recommendation
+busca una tienda que venda cerveza,recommendation_locations,recommendation
+que películas estan proyectando en cines cerca a mi,recommendation_movies,recommendation
+qué películas se están proyectando cerca de mí con críticas altas,recommendation_movies,recommendation
+películas con buenas calificaciones de tomate podrido,recommendation_movies,recommendation
+que actividades estan ocurriendo en mi area,recommendation_events,recommendation
+que compañia de taxi es la mejor,recommendation_events,recommendation
+que merece la pena ver,recommendation_movies,recommendation
+cuéntame sobre las actividades en mi área este fin de semana,recommendation_events,recommendation
+que esta pasando en la,recommendation_events,recommendation
+que tipo de tiendas hay cerca a mi localidad,recommendation_locations,recommendation
+puedes recomendar un restaurante barato en esta zona,recommendation_locations,recommendation
+cuáles son algunos restaurantes cerca de mí,recommendation_locations,recommendation
+dónde puedo encontrar el pub irlandés más cercano en mi área,recommendation_locations,recommendation
+qué bares hay a mi alrededor,recommendation_locations,recommendation
+dime todos los eventos que ocurren en milán,recommendation_events,recommendation
+dime que esta pasando en mi ciudad,recommendation_events,recommendation
+¿qué está pasando en los angeles hoy dia,recommendation_events,recommendation
+cuántas tiendas de comestibles hay en mi vecindario,recommendation_locations,recommendation
+me muero de hambre lo que es bueno para comer en cincinnati,recommendation_locations,recommendation
+olly dónde puedo conseguir unas bebidas en madrid,recommendation_locations,recommendation
+eventos locales de hoy,recommendation_events,recommendation
+enumerar todas las tiendas cercanas,recommendation_locations,recommendation
+puedes recomendar algún pub en gran via,recommendation_locations,recommendation
+que esta pasando en el barrio,recommendation_events,recommendation
+necesito un lugar que me entregue pizza en benton are,recommendation_locations,recommendation
+hay algún lugar chino en malasaña,recommendation_locations,recommendation
+por favor busque eventos en mi ubicación,recommendation_events,recommendation
+oye olly quiero obtener trenes a madrid el miércoles,transport_ticket,transport
+a qué hora es el próximo tren a barcelona,transport_query,transport
+cuál es el mejor camino a francia,transport_query,transport
+voy a chinatown en media hora reserva un uber para mí,transport_taxi,transport
+olly por favor resérvame un billete de renfe a madrid a las cinco de la tarde para este viernes,transport_ticket,transport
+reservar mi silla clase ac billete de tren de manhattan a nueva york,transport_ticket,transport
+cómo es la situación del tráfico en la calle houston,transport_traffic,transport
+llámame un uber para ahora mismo,transport_taxi,transport
+hay más tráfico en la calle canal,transport_traffic,transport
+cuánto tráfico hay ahora mismo en la calle sanche,transport_traffic,transport
+envíame un uber ahora mismo,transport_taxi,transport
+dónde está la estación de tren,transport_query,transport
+podrías tener un uber en mi casa en un cuarto de hora,transport_taxi,transport
+necesito un taxi para ir al aeropuerto por favor,transport_taxi,transport
+reservame un billete de avión,transport_ticket,transport
+busca un taxi para ir a casa,transport_taxi,transport
+reservar uber desde mi casa,transport_taxi,transport
+puedes decirme los siguientes cuatro trenes programados para córdoba por favor,transport_query,transport
+como es el trafico en carretera milligrams,transport_traffic,transport
+consígueme un billete de tren a madrid para el próximo jueves cuanto más tarde mejor,transport_query,transport
+cuál es el tiempo programado para que el correo de punjab llegue a gwalior,transport_query,transport
+cual es el siguiente tren a calle larios,transport_query,transport
+dirígeme a la estación de ferrocarril más cercana,transport_query,transport
+horario de tren de málaga a córdoba,transport_query,transport
+búscame dos billetes en el tren del martes a santander,transport_ticket,transport
+cuál es el estado del tráfico del trabajo a casa,transport_traffic,transport
+dime el estado del tráfico de aquí a casa,transport_traffic,transport
+reservar un taxi,transport_taxi,transport
+autobús y tarifas,transport_ticket,transport
+en delhi el nivel de tráfico es demasiado alto,transport_traffic,transport
+resérvame un taxi al aeropuerto para mañana por la mañana,transport_taxi,transport
+me gustaria conocer la situacion del trafico,transport_traffic,transport
+reservar mi taxi disponible más cercano,transport_taxi,transport
+como llego a brighton,transport_query,transport
+consígueme un uber,transport_taxi,transport
+recomprar el último billete de tren a huesca,transport_ticket,transport
+cómprame un billete de tren para hoy a la ciudad de córdoba,transport_ticket,transport
+indicaciones para llegar a la tienda apple más cercana,transport_query,transport
+hazme una idea de como son las condiciones de trafico ahora,transport_traffic,transport
+qué horarios de trenes hay desde barcelona a málaga,transport_query,transport
+cómo voy a málaga desde zamora,transport_query,transport
+cómo es el tráfico de casa al trabajo,transport_traffic,transport
+coger el coche,transport_taxi,transport
+cuáles son los horarios del tren el veintitrés a clarksville,transport_query,transport
+necesito un taxi mañana a las ocho de la mañana,transport_taxi,transport
+reservar boleto para salir por la mañana,transport_ticket,transport
+encontrar un conductor uber disponible para esta noche después de las diez de la noche,transport_taxi,transport
+a qué hora sale el tren para madrid,transport_query,transport
+puedes reservarme un billete de tren a boston para el próximo martes,transport_ticket,transport
+a qué hora sale el tren de filadelfia,transport_query,transport
+cuando sale el siguiente renfe a valencia,transport_query,transport
+consígueme el número de un servicio de taxi local,transport_taxi,transport
+dame direcciones para el lugar,transport_query,transport
+cómo llegar a disneyland,transport_query,transport
+necesito llegar a la ubicación llama a un taxi,transport_taxi,transport
+me gustaría una lista de todos los precios de los billetes de tren para esta ubicación por favor,transport_query,transport
+necesito ir a lyon reservar un billete de tren,transport_ticket,transport
+cuáles son los horarios de los trenes de san francisco a nueva york,transport_query,transport
+olly por favor cómprame un billete de tren a cuenca,transport_ticket,transport
+cuánto por un boleto de tren,transport_query,transport
+por favor infórmame de cómo proceder para comprar un billete de tren a madrid,transport_query,transport
+puedes darme los horarios de los trenes para ann arbor,transport_query,transport
+resérvame un billete de tren a chicago para mañana por la mañana antes de las diez,transport_ticket,transport
+quiero ir a bankia dime indicaciones de como llegar,transport_query,transport
+por favor pide un billete de tren a los angeles,transport_ticket,transport
+necesito un taxi mañana a las ocho de la mañana para ir al trabajo,transport_taxi,transport
+el trafico ahora,transport_traffic,transport
+para qué son los horarios del tren,transport_query,transport
+podrías comprobar el tráfico a nuestra casa,transport_traffic,transport
+cómprame un boleto para tomar el tren a atlanta,transport_ticket,transport
+cuánto tráfico hay normalmente en barcelona,transport_traffic,transport
+reservar billete de tren para esta hora,transport_ticket,transport
+configurar uber,transport_taxi,transport
+encuentra un taxi a xanadu,transport_taxi,transport
+llama un taxi para que me recoja ahora mismo,transport_taxi,transport
+hay algún problema de tráfico,transport_traffic,transport
+cuál es la ruta al mcdonalds más cercano,transport_query,transport
+que calle tomo para llegar al centro,transport_query,transport
+necesito comprar un billete de tren,transport_ticket,transport
+reserva un billete de tren a,transport_ticket,transport
+cuanto cuesta un billete de tren a madrid,transport_query,transport
+solicitar un taxi del servicio udrive,transport_taxi,transport
+cómo está el tráfico esta mañana,transport_traffic,transport
+como es el trafico ahora,transport_traffic,transport
+cómo está el tráfico cerca de mí,transport_traffic,transport
+como esta el trafico actual en galicia,transport_traffic,transport
+enumerar todo el tiempo de tren a nueva york,transport_query,transport
+ver todos los trenes y horarios a badajoz,transport_query,transport
+consígueme un billete de tren a huesca hoy,transport_ticket,transport
+cuál es la forma más rápida de llegar a barcelona,transport_query,transport
+abre la app de renfe y ve a comprar billete,transport_ticket,transport
+reserva un billete de tren para madrid,transport_ticket,transport
+reservar un taxi para que lo recojan en mi ubicación actual dentro de una hora,transport_taxi,transport
+qué ruta tiene menos tráfico hoy,transport_traffic,transport
+reservar mi billete de tren a nueva york,transport_ticket,transport
+consígueme un taxi para llevarme al aeropuerto el viernes a las cinco y media de la mañana,transport_taxi,transport
+consígueme un paseo en el tren de cercanías de nueva jersey a nueva york,transport_ticket,transport
+podrías hacer una lista de los trenes que van a málaga el día siguiente,transport_query,transport
+es la carretera en esta zona en particular ancha o estrecha,transport_traffic,transport
+reservar un asiento para mí en el tren el veinte de marzo,transport_ticket,transport
+por favor dime los horarios de tren de renfe,transport_query,transport
+necesito reservar un taxi por favor,transport_taxi,transport
+oye a qué hora puedo coger el tren más cercano a mí,transport_query,transport
+encontrar una definición,qa_definition,qa
+quién es el presidente de polonia,qa_factoid,qa
+que moneda usa españa,qa_currency,qa
+cuanto mide una jirafa,qa_factoid,qa
+en qué escenario usarías la palabra inconveniencia,qa_definition,qa
+calcular la resistencia de esta resistencia,qa_factoid,qa
+google,qa_maths,qa
+centros de navegación,qa_maths,qa
+dime una definición breve de evacuación,qa_definition,qa
+crees que el viaje en el tiempo es posible,general_quirky,general
+que edad tiene rosalía,qa_factoid,qa
+correo electrónico amigo,email_sendemail,email
+explicame cuantos paises diferentes estan representados en el libro del apocalipsis,general_quirky,general
+cuanto es tres por siete,qa_maths,qa
+qué debería cocinar esta noche,general_quirky,general
+dime que pasa cuando morimos,general_quirky,general
+de que estado es david lynch,qa_factoid,qa
+establece una cita solo para ti y para mi,general_quirky,general
+cuál es la raíz cuadrada de cuarenta y dos,qa_maths,qa
+dime por qué bill bur es mejor comediante que iliza schleshinger,qa_factoid,qa
+dime el segundo nombre de tom hanks,qa_factoid,qa
+cómo deletrear la palabra jirafa,qa_definition,qa
+puedes decir la palabra desmonetización,qa_definition,qa
+que eran los edificios más largos del mundo,qa_factoid,qa
+escuchas canciones de david bustamante,music_query,music
+agenda una reunión con mi compañero,calendar_set,calendar
+actor que actúa un papel,qa_definition,qa
+por favor dame información sobre la próxima película de dani rovira,qa_factoid,qa
+ninguno,qa_factoid,qa
+puedes mentir,general_quirky,general
+que es el huracán,qa_definition,qa
+google la palabra,qa_definition,qa
+calcular la distancia de madrid a barcelona,qa_factoid,qa
+resolver el cálculo,qa_maths,qa
+cual es la poblacion de los angeles,qa_factoid,qa
+cual es tu lengua materna,general_quirky,general
+cuantos años tiene jennifer lopez,qa_factoid,qa
+resume todas las cosas que podría hacer por mí para ser más feliz,general_quirky,general
+si hubiera diez sencillos pasos para hacerme rico cuales serian,general_quirky,general
+animal más grande,qa_factoid,qa
+el edificio más alto,qa_factoid,qa
+dónde está la base de operaciones de justin bieber,qa_factoid,qa
+cual es mi ubicacion,general_quirky,general
+con toda la información que pueda recopilar en internet podría proporcionarme la mejor explicación probable de quién mató al presidente kennedy,qa_factoid,qa
+me gustaría que escribiera mensajes románticos originales para mi esposa,general_quirky,general
+cuéntame la historia de ramanujan y su viaje matemático,qa_factoid,qa
+la siguiente pregunta le pide que analice las metas y acciones previstas por el maestro,qa_factoid,qa
+quiénes son los mejores artistas de hip hop,qa_factoid,qa
+que significa hipocresía,qa_definition,qa
+qué significa la palabra hipocresía,qa_definition,qa
+responde a esta pregunta cuál es el primer jefe en super mario bros,general_quirky,general
+usar en una oración,qa_definition,qa
+cuál es la respuesta a dos más dos,qa_maths,qa
+definir swerving,qa_definition,qa
+cuando definas algunas palabras pon thesaurus y usa una frase para que sea mas claro,general_quirky,general
+quienes son los cinco primeros goleadores n. h. l.,general_quirky,general
+cuando nació benjamin franklin,qa_factoid,qa
+quien es el gobernador de new york,qa_factoid,qa
+cuál es la definición de pda,qa_definition,qa
+cuál es el índice de aprobación de trump,qa_factoid,qa
+me podrias decir como consigo la respuesta a eso,general_quirky,general
+resolver problema de matemáticas,qa_maths,qa
+hay vida en otros planetas,general_quirky,general
+cuál es tu color favorito,general_quirky,general
+qué opinas de las tres leyes de la robótica,general_quirky,general
+dime el color de la suerte de hoy,general_quirky,general
+lee un poema para mí,general_quirky,general
+existe una correlación entre el clima en beijing y los precios de nasdaq durante la última semana,general_quirky,general
+tom cruise es hijo único,qa_factoid,qa
+por favor busca esta palabra,qa_definition,qa
+porque el cielo es azul,qa_factoid,qa
+cuanto es veinticuatro por veinticuatro,qa_maths,qa
+cuanto tiempo es un dia de la tierra,qa_factoid,qa
+espero que podamos almorzar juntos,general_quirky,general
+quien estaba en los beatles,qa_factoid,qa
+el mundo llegara a su fin cuando,general_quirky,general
+que significa tenso,qa_definition,qa
+donde esta mi novia ahora mismo,general_quirky,general
+busque la definición de ambulancia,qa_definition,qa
+los chupitos de gelatina no tienen calorías,qa_factoid,qa
+me puedes decir el sitio mas barato para comprar carne picada,recommendation_locations,recommendation
+que significa patata,qa_definition,qa
+dime un dato interesante sobre esto,general_quirky,general
+cuando es la proxima gira,general_quirky,general
+cuál es el tipo de cambio entre el dólar y el euro actualmente,qa_currency,qa
+definir marco,qa_definition,qa
+describir una patata,qa_definition,qa
+cuantas veces ha conseguido adele el disco de diamante,qa_factoid,qa
+cuéntame la cosa mas extraña que esta pasando en el mundo hoy,general_quirky,general
+dime hora que es,datetime_query,datetime
+cómo se define textual,qa_definition,qa
+quiero hacer un viaje a suiza gratis puedes llevarme allí,general_quirky,general
+cuál es el tipo de cambio del yen a dólar estadounidense,qa_currency,qa
+cuántas millas hay en cinco kilómetros,qa_maths,qa
+cuantos años tiene angelina jolie,qa_factoid,qa
+donde esta stockton california,qa_factoid,qa
+que está haciendo barack obama ahora mismo,qa_factoid,qa
+que es una antena de telefonía móvil,qa_definition,qa
+cuantos sd en francos,qa_currency,qa
+a cuántas millas está la ciudad de madrid de barcelona,qa_factoid,qa
+cuál es el tipo de cambio de dólares estadounidenses a dólares canadienses,qa_currency,qa
+que sabes sobre la el ángel caído,qa_definition,qa
+cuáles son los tipos de cambio entre estados unidos y china,qa_currency,qa
+encuéntrame información sobre,qa_definition,qa
+cuál es la elevación promedio de los estados unidos,qa_factoid,qa
+cuál es el tipo de cambio entre el dólar estadounidense y el franco,qa_currency,qa
+cuantos personas viven en madrid,qa_factoid,qa
+siri cuánto es un dólar americano en yenes japoneses,qa_currency,qa
+en que año nació mario casas,qa_factoid,qa
+háblame de las morillas,qa_definition,qa
+precios de las acciones en mercadona,qa_stock,qa
+que religion es la mas cierta,general_quirky,general
+cuántas millas hay entre illinois y luisiana,qa_factoid,qa
+cuantos años tiene tom hanks,qa_factoid,qa
+candela peña ha ganado alguna vez un premio de la academia,qa_factoid,qa
+dime el tipo de cambio del euro,qa_currency,qa
+cuánto cuesta el dólar estadounidense frente a la rupia,qa_currency,qa
+por favor muéstrame el tipo de cambio entre el dólar y el yen,qa_currency,qa
+cuál es la definición de un carrera,qa_definition,qa
+cuantos años tiene pedro sánchez,qa_factoid,qa
+necesito mantener a dos niños pequeños ocupados dime qué hacer,general_quirky,general
+puedes darme el tipo de cambio del dólar en rupias,qa_factoid,qa
+háblame de las estacas solares para el jardín,qa_definition,qa
+cuál es la ciudad más grande de new hampshire,qa_factoid,qa
+definición de cascos de realidad virtual,qa_definition,qa
+tengo alguna nueva cerilla,calendar_query,calendar
+cómo se ve una banana,qa_definition,qa
+quien es donald trump,qa_factoid,qa
+donde esta españa,qa_factoid,qa
+que es un fiordo,qa_factoid,qa
+cuando nació rocío jurado,qa_factoid,qa
+que significa tuit,qa_definition,qa
+dónde está dakota del norte,qa_factoid,qa
+que significa triunfo,qa_definition,qa
+cual está más al norte de estados unidos,qa_factoid,qa
+donde esta stonehenge,qa_factoid,qa
+necesito el precio de las acciones de amazon,qa_stock,qa
+cual es la tasa para rupias indias,qa_currency,qa
+cual es la tasa de cambio para pesos filipinos,qa_currency,qa
+cual es el actual precio de la acción de facebook,qa_stock,qa
+mostrar biografía de rihana,qa_factoid,qa
+euros a dólares americanos,qa_currency,qa
+podrías por favor darme el cumpleaños de mahatma gandhiji,qa_factoid,qa
+que tipo de pantalón es un culotte,qa_factoid,qa
+probar en wikipedia,qa_definition,qa
+olly vale más o menos un dólar en brasil,qa_currency,qa
+cómo se ve la camisa,qa_definition,qa
+pregunta a mi asesor,qa_stock,qa
+por favor dígame cuándo puedo hacerme rico si invierto en acciones de dow hoy y cuál será el rendimiento después de cinco años.,qa_stock,qa
+en que año nació elvis,qa_factoid,qa
+encuentra la direccion exacta de los sitios,recommendation_locations,recommendation
+cuanto vale el euro versus dólar canadiense,qa_currency,qa
+enumera las cinco mejores películas de blanca suárez,qa_factoid,qa
+cuál es el tipo de cambio entre el dólar estadounidense y el euro,qa_currency,qa
+cuanto es seis menos cuatro,qa_maths,qa
+dime un euro a cuántos dólares equivale,qa_currency,qa
+como de grande es inglaterra,qa_factoid,qa
+háblame sobre nueva york,qa_factoid,qa
+mostrar varias plantas en la tierra,qa_factoid,qa
+cómo están las acciones de coca-cola hoy,qa_stock,qa
+quien es la esposa de obama,qa_factoid,qa
+precio de cierre de hoy para google,qa_stock,qa
+mencionar el precio de las acciones de aldi,qa_stock,qa
+qué significa hipótesis,qa_definition,qa
+cuando se hizo la estatua de la libertad,qa_factoid,qa
+a que edad se casó michael phelps,qa_factoid,qa
+quién es javier bardem,qa_factoid,qa
+cuál es la definición de rudimentario,qa_definition,qa
+como de alto es el edificio empire state,qa_factoid,qa
+cuál es la tasa de cambio entre el u. s. d. e inr,qa_currency,qa
+describir el estado actual de la política,qa_factoid,qa
+cuando nació justin bieber,qa_factoid,qa
+defínete en una palabra,general_quirky,general
+dónde está el restaurante italiano mas cercano,recommendation_locations,recommendation
+puedes decirme cómo es haggis,qa_definition,qa
+pink está grabando un disco nuevo,qa_factoid,qa
+definición de nombre de objeto,qa_definition,qa
+cómo es el volkswagen golf,qa_definition,qa
+características del ipad air,general_quirky,general
+dime la distancia entre el sol y la luna,qa_factoid,qa
+encontrar el significado del mundo en el diccionario,qa_definition,qa
+cuál es el mejor teléfono inteligente en dos mil diecisiete,qa_factoid,qa
+tipo de cambio que obtendré con moneda extranjera,qa_currency,qa
+dame detalles de esta persona,general_quirky,general
+por favor cuentanos algunos detalles sobre esta persona,general_quirky,general
+cual es el tema mas preocupante en estados unidos hoy y que se puede hacer para afrontarlo de forma eficaz,general_quirky,general
+quien fue el vigésimo quinto presidente de los estados unidos de américa,qa_factoid,qa
+dime como ir a bali sin avion con la opcion mas barata el tiempo no importa tengo doscientos dias de viaje y solo dolares para gastar,general_quirky,general
+dame la descripción de un circuito de portátil,qa_definition,qa
+cuándo suele bajar normalmente las acciones de iphone,qa_stock,qa
+explica,qa_definition,qa
+explicame como funciona la gravedad,qa_factoid,qa
+cuando se casaron adexe y nau,qa_factoid,qa
+tasas de cambio entre el dólar y el euro,qa_currency,qa
+puedes decirme qué significa hipertrofia,qa_definition,qa
+nombre de la sociedad anónima,qa_stock,qa
+me gustaría que mi robot pudiera trabajar por mi,general_quirky,general
+dame la descripción del circuito del portátil,qa_definition,qa
+definir xy,qa_definition,qa
+dame el precio de apertura de las acciones de apple,qa_stock,qa
+dónde puedo conseguir avena orgánica,recommendation_locations,recommendation
+stock por favor,qa_stock,qa
+cambiar las tasas de dólar a rupias,qa_currency,qa
+tipo de cambio dólar rupias,qa_currency,qa
+cual es el factor que permitio que modi ganara las elecciones,general_quirky,general
+prediccion de terremotos,general_quirky,general
+ok google cuál es la manera más fácil y rápida de cocinar un pavo,cooking_query,cooking
+que tipo de implemento es un asador y como lo uso,general_quirky,general
+definir pollo de engorde para mí,qa_definition,qa
+donde esta la estatua de la libertad,qa_factoid,qa
+descríbeme cómo se ve una bola,qa_definition,qa
+alexa dime todo lo que sabes sobre bob dean,qa_factoid,qa
+dime los precios de las acciones de repsol,qa_stock,qa
+cuáles son los precios de las acciones de amd,qa_stock,qa
+cuánto valen las acciones de google,qa_stock,qa
+ibas a traer nuevos esquemas,general_quirky,general
+convierte un euro a dólar estadounidense,qa_currency,qa
+alto precio de las acciones,qa_stock,qa
+cuántos mega píxeles se enumeran en la descripción del canon,qa_factoid,qa
+como tamara falcó se volvió famosa,qa_factoid,qa
+cuál es la respuesta a dos por tres,qa_maths,qa
+cuanto es doce dividido por cuatro,qa_maths,qa
+cuál es el color natural del cabello de julia roberts,qa_factoid,qa
+define la luna para mi,qa_definition,qa
+cuantos ríos hay en el mundo,qa_factoid,qa
+búscame algunas celebridades que sean capricornio,qa_factoid,qa
+si es un bien de consumo entonces cuál es la retroalimentación del cliente,general_quirky,general
+cuánto va la rupia india contra el dólar estadounidense,qa_currency,qa
+podrías describir ese objeto por favor,qa_definition,qa
+que fue el primer satélite lanzado por la nasa,qa_factoid,qa
+por favor descríbeme un elefante,qa_definition,qa
+cuál es el tipo de cambio del dólar estadounidense hoy,qa_currency,qa
+por cuanto tiempo ha estado embarazada la reina leticia,qa_factoid,qa
+cuál es el precio de las acciones de tesco,qa_stock,qa
+me gustaría mantener fácilmente un inventario y decirme cuando me estoy quedando sin algo,general_quirky,general
+en qué ha estado trump esta semana,qa_factoid,qa
+cuál es la definición de marinara,qa_definition,qa
+cuantas personas piensan de tal manera que pueden esconderse de dios,general_quirky,general
+los tipos de cambio de moneda,qa_currency,qa
+que es por,qa_definition,qa
+cuantos años tiene christie brinkley,qa_factoid,qa
+cuentame como empezo el mundo,general_quirky,general
+dime el tipo de cambio de diez dólares por euro,qa_currency,qa
+que es ordenador,qa_definition,qa
+cual es la isla mas pequeña del mundo,qa_factoid,qa
+que tan grande es japón,qa_factoid,qa
+como de lejos esta japón de madrid,transport_query,transport
+puedes decirme qué películas se están proyectando en el cine esta noche,recommendation_movies,recommendation
+olly que significa la palabra snafu,qa_definition,qa
+cuál es el tipo de cambio entre el dólar estadounidense y el dólar australiano,qa_currency,qa
+en que cotización de apple,qa_stock,qa
+qué edad tenía albert einstein cuando se le ocurrió la teoría de la relatividad,qa_factoid,qa
+calcular una integral cercana de la función exponencial de cero a cinco,qa_factoid,qa
+dime cómo va a afectar el brexit e. u. ciudadanos a largo y medio plazo,qa_factoid,qa
+por favor busca intercambio entre estados unidos y méxico,qa_currency,qa
+solo busque una descripción sobre un televisor samsung,qa_definition,qa
+cuál es el tipo de cambio para samsung,qa_currency,qa
+que tan lejos esta,qa_factoid,qa
+que es esta cosa,qa_definition,qa
+cuál es el stock de ibm en,qa_stock,qa
+qué ha sido lo último que ha dicho mi madre,social_query,social
+dame actualizaciones sobre el facebook de javier del fin de semana,social_query,social
+enséñame nuevos comentarios en mi facebook,social_query,social
+cuántos me gusta tiene mi última foto de instagram,social_query,social
+léeme el último tweet de el mundo,social_query,social
+publicar nuevo estado en facebook hora de celebrar,social_post,social
+mi actualización de facebook cada tres horas debería estar disponible,social_query,social
+pon eso en facebook,social_post,social
+este artículo es súper guay puedes compartir el enlace en facebook por mí,social_post,social
+transmite un vídeo en youtube,social_post,social
+estado de facebook día ocupado,social_post,social
+por favor envíaselo a carlos,social_post,social
+por favor enviar estado a facebook,social_post,social
+enséñame una lista de lugares donde mis familiares han estado basándome en sus fotos,social_query,social
+últimas noticias de la página de inicio de facebook,social_query,social
+dame los detalles de mi perfil de twitter incluyendo el número total de seguidores,social_query,social
+está bien que puedas postear esto en mi facebook,social_post,social
+me puedes decir que está pasando en mis redes sociales,social_query,social
+cuál fue el último tuit de mi feed,social_query,social
+por favor informame de cualquier actualización de mi estado,social_query,social
+nuevo tuit,social_post,social
+abre facebook y desea un feliz cumpleaños a españa,social_post,social
+estoy triste con mercadona por favor ayudadme,social_post,social
+puedes enviar un tuit a cabify diciendo que su app se ha caído,social_post,social
+publica lo siguiente como estado en facebook,social_post,social
+por favor pon un estado en twitter,social_post,social
+por favor publica esta foto en mi facebook,social_post,social
+queja a apple y hacerles saber que mi aplicación falló,social_post,social
+dile a mi grupo de facebook que he llegado,social_post,social
+por favor escribe una queja para levis,social_post,social
+diles que las lineas eran demasiado largas,social_post,social
+necesito un pesebre,general_quirky,general
+mandar este mensaje a microsoft en twitter,social_post,social
+publicar una foto en mi teléfono en facebook alexa,social_post,social
+tuitear una queja a la página web de el cote inglés,social_post,social
+enviar un tuit a iberia que estoy enfadado porque me habéis perdido las maletas,social_post,social
+tuve un servicio horrible en la tagliatella necesito tuiteárselo,social_post,social
+enviar queja a través del servicio al consumidor de twitter,social_post,social
+puedes tuitear una queja al servicio al cliente de la tienda de muebles,social_post,social
+dile a movistar plus que todavía estoy en espera,social_post,social
+escribe una queja a carrefour por la tablet que he comprado hoy,social_post,social
+hazle saber a naturgy que se ha ido la luz otra vez,social_post,social
+contacta con el servicio de atención al cliente de amazon via twitter,social_post,social
+por favor actualiza las cuentas de mis redes sociales,social_query,social
+tuitear queja a samsung,social_post,social
+por favor pon un tuit a la compañía vodafone sobre el servicio defectuoso del portátil,social_post,social
+tuitea a alcampo y diles que su servicio de atención al cliente es horrible,social_post,social
+alexa manda un tuit al zara para decirles que tienen el peor servicio de atención al cliente,social_post,social
+quejas de servicio de atención al cliente tuitear lo siguiente,social_post,social
+marcos ha publicado algo nuevo en facebook,social_query,social
+mandar un tuit a telepizza sobre un mal envío,social_post,social
+recuérda me tuitear en esta empresa,calendar_set,calendar
+postea en facebook que estoy enfermo,social_post,social
+postea en tumblr que me lo estoy pasando bien,social_post,social
+abordar la situacion,general_quirky,general
+tuitea una queja a burger king,social_post,social
+envía un tuit a la compañía,social_post,social
+tuitea una queja sobre mi frigorífico a l. g.,social_post,social
+nombre de video de publicación de galería abierta,social_post,social
+publica en twitter que tengo un día ajetreado por delante,social_post,social
+tuitear el servicio al cliente no es bueno para el servicio de litro por gramo en mi cuenta de twitter,social_post,social
+tuitear queja,social_post,social
+cuáles son las últimas fotografías en mi cuenta de instagram,social_query,social
+ok google tuitea que el servicio en la yoselén es terrible,social_post,social
+tuitea una queja sobre el drenaje atascándose,social_post,social
+información social,social_query,social
+tuitear al servicio al consumidor que estoy muy decepcionado con mi interacción reciente,social_post,social
+quiero publicar una actualización en twitter,social_post,social
+cuándo recibí el mensaje de john smith sobre el accidente,email_query,email
+avíseme si tengo nuevos correos electrónicos,email_query,email
+envía un correo a emilia diciendo que llegaré tarde que no me espere para cenar,email_sendemail,email
+hay algún correo electrónico de emilia,email_query,email
+puedes enviar un correo a pedro por favor,email_sendemail,email
+revisar mi bandeja de entrada,email_query,email
+envía un correo a david sobre la reunión de mañana david podemos reunirnos en la tarde,email_sendemail,email
+me gustaría saber sobre la fiesta de jane,general_quirky,general
+abre mi correo más reciente y contesta,email_sendemail,email
+envía este contenido por correo electrónico,email_sendemail,email
+envía un correo electrónico a mamá con el asunto tiempo y el cuerpo de mensaje que cómo está el tiempo esta semana,email_sendemail,email
+comprobar los correos electrónicos para ver si hay correos no leídos de mamá,email_query,email
+por favor dame detalles de mi contacto andrés,email_querycontact,email
+hay un contacto llamado paco en mi lista,email_querycontact,email
+envía un feliz año nuevo a juan arroba gmail punto com,email_sendemail,email
+cuál es el apellido de juan,email_querycontact,email
+envía una respuesta a mi amigo para su pregunta,email_sendemail,email
+revisa mis correos electrónicos de las últimas dos horas,email_query,email
+contola correos de las últimas doce horas,email_query,email
+alexa añade erosser arroba hotmail punto com como nuevo contacto para ana lópez,email_addcontact,email
+avíseme si hay nuevos correos electrónicos de ebay,email_query,email
+envía un correo electrónico con el siguiente mensaje a este contacto,email_sendemail,email
+comprobar y ver si he recibido algún correo electrónico de eddie richards que tenga que ver con presupuestos,email_query,email
+guarda este correo en contacto,email_addcontact,email
+enviar a ashmit sus últimos temas tecnológicos disponibles,email_sendemail,email
+hazme saver cuando laura me envíe un correo electrónico,email_query,email
+déjame saber lo que se ha acumulado en mi bandeja de entrada desde las tres p. m.,email_query,email
+puedes enviar un correo electrónico a mi amigo rohit que diga que estoy ocupado mañana,email_sendemail,email
+buscar fechas límite de matthews,email_query,email
+oye comienza un correo electrónico a mi colega,email_sendemail,email
+abre nuevo correo electrónico a esta colega a este correo electrónico,email_sendemail,email
+por favor actualiza mi bandeja de entrada,email_query,email
+enviar un hola a,email_sendemail,email
+muestra el ultimo correo electrónico de juan,email_query,email
+envía un correo electrónico a mi gerente,email_sendemail,email
+enséñame los últimos correos electrónicos siri,email_query,email
+envía un correo electrónico a olivia navarro,email_sendemail,email
+algún correo en los últimos cinco minutos,email_query,email
+envía un correo electrónico a mi amigo diciéndole que le deseo un feliz cumpleaños,email_sendemail,email
+cuál es la dirección de correo electrónico de mamá,email_querycontact,email
+me gustaría que este nuevo correo electrónico se agregara a mi contactos.,email_sendemail,email
+envía un correo electrónico a mateo voy a enviar los archivos al día siguiente,email_sendemail,email
+mostrar todos los correos electrónicos recibidos recientemente con marca de tiempo,email_query,email
+muestra me un nuevo correo electrónico,email_query,email
+abrir respuesta,email_sendemail,email
+responder a este correo electrónico,email_sendemail,email
+envía un correo electrónico a gerardina para decirle que la abuela la quiere y espera que tenga un buen fin de semana,email_sendemail,email
+redactar respuesta,email_sendemail,email
+dime los detalles de contacto de mi hermano,email_querycontact,email
+enviar este mensaje al grupo familiar comienza con un,email_sendemail,email
+quién me ha enviado correos electrónicos recientemente y cuáles son los asuntos de cada correo electrónico,email_query,email
+olly responde al correo electrónico de romina diciendo que su idea es fantastica,email_sendemail,email
+enviar correo electrónico al jefe para reunirnos por evaluación de rendimientos,email_sendemail,email
+paco vive en francia,email_querycontact,email
+avísame si recibo algún correo electrónico en mi cuenta de email,email_query,email
+enviar el mensaje hola baja a cenar esta noche a hermano,email_sendemail,email
+envía un correo electrónico al chico que está vendiendo el bote diciéndole que tengo el dinero,email_sendemail,email
+dime quien envió el correo electrónico sobre el jefe ayer,email_query,email
+qué dijo la clinica sobre mix exámenes,email_query,email
+puedo encontrar información sobre un contacto,email_querycontact,email
+lee mis emails no leídos,email_query,email
+comprobar si hay nuevos emails,email_query,email
+puede verificar si tiene alguna alerta reciente por correo electrónico,email_query,email
+envía un correo para mi,email_sendemail,email
+responder a todos,email_sendemail,email
+dile a roberto sanchez,email_sendemail,email
+responder con gracias,email_sendemail,email
+tengo algún correo nuevo de joan perez,email_query,email
+hay algun correo sobre mi ascenso,email_query,email
+revisa mis correo s,email_query,email
+hazme una lista de los destinatarios y remitentes de los emails de la ultima semana,email_query,email
+quien me envió correos electrónicos recientemente y que decían,email_query,email
+envía el correo electrónico a juan,email_sendemail,email
+comenzar correo,email_sendemail,email
+cuántos correos sin leer tengo,email_query,email
+enviar un correo a raul a qué hora es la cena,email_sendemail,email
+enviar correo electrónico a comcast que su servicio es una mierda,email_sendemail,email
+por favor revisa correo reciente estudio de este remitente,email_query,email
+abre mi cuenta de correo electrónico y revisa nuevos correos electrónicos,email_query,email
+envía un correo a mi jefe diciendo llegaré tarde,email_sendemail,email
+qué nuevos mensajes tengo,email_query,email
+abrir mis nuevos correos,email_query,email
+revisa los correos electrónicos de cristina,email_query,email
+responde al correo electronico de marcos,email_sendemail,email
+cuántos correos hoy,email_query,email
+me ha enviado mi mamá un correo electrónico,email_query,email
+enviar un correo a mamá quiero ir de compras mañana,email_sendemail,email
+revisa todos los correos de eric,email_query,email
+me ayudarás a escribir un correo electrónico a chofin,email_sendemail,email
+olly por favor compruebe que tengo algunos correos electrónicos de mamá,email_query,email
+enviar un correo electrónico a todos los trabajadores de mi empresa,email_sendemail,email
+mensaje de correo electrónico a la dirección,email_sendemail,email
+nueva dirección,email_sendemail,email
+busca en google la nueva dirección de correo electrónico de juan que añadí el viernes,email_query,email
+es esto el código postal correcto de mi jefe,email_querycontact,email
+contesta,email_sendemail,email
+por favor borra los contactos con los que no he hablado en tres meses,email_querycontact,email
+quiero enviar un correo electrónico a jacobo arroba gmail punto com,email_sendemail,email
+envía un correo a mi hija diciéndola que te quiero,email_sendemail,email
+envía un correo electrónico a mama diciendo feliz cumpleaños,email_sendemail,email
+por favor dime si julio me ha enviado algún correo electrónico,email_query,email
+algún nuevo correo electrónico del jefe,email_query,email
+ha llegado ya algún correo personal,email_query,email
+abre el correo electrónico de mi hermana de ayer dale a contesta y activa la grabación de voz para mi respuesta,email_sendemail,email
+cuántos contactos tengo en mi agenda,email_querycontact,email
+puedes ver sobre lo que andrés me ha escrito en su email,email_query,email
+quiero encontrar correos electrónicos de juan con el asunto que contenga la palabra reunión,email_query,email
+por favor envía un email a mi madre,email_sendemail,email
+me envió un correo juan,email_query,email
+mira mi correo,email_query,email
+abre el correo electrónico de jaime,email_sendemail,email
+buscar correo electrónico para contactar,email_query,email
+encuentra un contacto,email_query,email
+muestra mi correo electrónico,email_query,email
+abre el contacto llamado josé,email_querycontact,email
+a quien envié correos electrónicos recientemente,email_query,email
+cual es el destinatario y remitente del correo electrónico que hay hoy en la bandeja de entrada,email_query,email
+por favor abre mi lista de contactos,email_querycontact,email
+abre la información de contacto de pablo,email_querycontact,email
+chequea todos los correos de tom brady,email_query,email
+envía una respuesta a juan,email_sendemail,email
+hola tengo algún nuevo correo electrónico,email_query,email
+enviar correo electrónico a miguel,email_sendemail,email
+controla mi correo,email_query,email
+necesito mandar un correo a susana y mencia,email_sendemail,email
+mostrar no leído,email_query,email
+hay nuevos correos electrónicos en mi bandeja de entrada,email_query,email
+responder correo electrónico,email_sendemail,email
+envía un correo a m. garcía preguntándole si luis entregó su último deber asignado,email_sendemail,email
+envía una respuesta a mi último correo electrónico,email_sendemail,email
+responder a al correo electrónico de francisco con la respuesta seis y media,email_sendemail,email
+qué correo tengo,email_query,email
+quiero enviar una respuesta al correo electrónico de juan,email_sendemail,email
+chequea correos de ana perez,email_query,email
+hay algunos nuevos correos electrónicos,email_query,email
+revisa mi bandeja de entrada por mí,email_query,email
+guardar correo a mi contacto,email_addcontact,email
+guardar en contactos,email_addcontact,email
+dame todos mis correos electrónicos recientes,email_query,email
+cuál es mi actividad de correo reciente,email_query,email
+dame el correo de contacto,email_querycontact,email
+por favor dime los nuevo correos electrónicos de miguel,email_query,email
+sólo hazme saber nuevos correos de sara,email_query,email
+he recibido algún correo desde las diecisiete horas,email_query,email
+recibí algún correo electrónico de pepe hoy,email_query,email
+publicar un correo electrónico al trabajador de mi empresa con la información de la reunión programada para hoy,email_sendemail,email
+recibí algún nuevo correo hoy de ana,email_query,email
+enviar correo electrónico a maría,email_sendemail,email
+llama al numero de telefono de ramon,email_querycontact,email
+informa de algún correo electrónico nuevo,email_query,email
+cuántos mensajes no leídos tengo,email_query,email
+por favor responde el correo electrónico que yo acabo de leer,email_sendemail,email
+juan me escribe hoy,email_query,email
+cúal es la dirección para juan,email_querycontact,email
