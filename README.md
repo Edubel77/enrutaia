@@ -33,3 +33,21 @@ TF-IDF (palabras 1-2 + caracteres 2-5) + regresión logística, entrenado en tra
 **macro-F1 = 0.873 · exactitud = 0.879** (`results/E0_tfidf.json`). Es la referencia que deben superar los demás modelos.
 - Dominio más difícil: general (F1 0.605).
 - "qa" funciona como cajón de sastre (precisión 0.702, recall 0.923).
+
+## Problema
+Las solicitudes de usuarios llegan en texto libre y alguien debe asignarlas al área correcta, lo que retrasa la atención y produce errores de enrutamiento.
+**Pregunta del proyecto:** ¿un modelo adaptado con pocos recursos de cómputo clasifica estas solicitudes en 18 dominios mejor que un baseline clásico, y a qué costo?
+**Métrica principal:** macro-F1 en validación (todas las áreas pesan igual). El test se evalúa una sola vez, al final de la Semana 3.
+## Experimentos (Semana 1)
+| ID | Modelo | macro-F1 validación | Semillas | Archivo |
+|---|---|---|---|---|
+| E0 | TF-IDF (palabras + caracteres) + regresión logística | 0.8725 | determinista | `results/E0_tfidf.json` |
+| E1 | Keras: Embedding(64) + promedio + softmax | 0.8732 ± 0.0019 | 42, 123, 2024 | `results/E1_keras.json` |
+
+**Conclusión:** empate técnico (E0 cae dentro de la variación de E1). Ante el empate, la referencia es E0 por ser más simple, determinista y liviano. Los modelos preentrenados (Semanas 2-3) deberán superarlo con claridad.
+
+## Cómo reproducir
+1. Abrir en Colab `notebooks/D5_lab_1_5_keras_texto.ipynb` y ejecutar todo.
+2. Los datos se descargan de `data/limpio/` y se verifica su md5 antes de usarlos.
+3. E0 debe dar macro-F1 = 0.8725 en validación; E1 ≈ 0.8732 ± 0.0019 (3 semillas).
+4. Las pruebas de limpieza se ejecutan con `python -m pytest tests/ -v` (9 pruebas).
