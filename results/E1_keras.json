@@ -1,0 +1,23 @@
+{
+  "experimento": "E1",
+  "modelo": "TextVectorization(10k, largo 24) + Embedding(64) + GlobalAveragePooling1D + Dropout(0.3) + Dense softmax",
+  "datos_md5": {
+    "train": "cc0ff7796f8e1d1df56862a9f708d521",
+    "validation": "ba68845308293612e717aa7c1a55887c"
+  },
+  "split_evaluado": "validation",
+  "semillas": [
+    42,
+    123,
+    2024
+  ],
+  "macro_f1_por_semilla": [
+    0.8715,
+    0.8728,
+    0.8753
+  ],
+  "macro_f1_media": 0.8732,
+  "macro_f1_desv": 0.0019,
+  "accuracy_media": 0.8809,
+  "tensorflow": "2.21.0"
+}
