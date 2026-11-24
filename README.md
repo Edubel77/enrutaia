@@ -45,7 +45,19 @@ Las solicitudes de usuarios llegan en texto libre y alguien debe asignarlas al �
 | E1 | Keras: Embedding(64) + promedio + softmax | 0.8732 ± 0.0019 | 42, 123, 2024 | `results/E1_keras.json` |
 
 **Conclusión:** empate técnico (E0 cae dentro de la variación de E1). Ante el empate, la referencia es E0 por ser más simple, determinista y liviano. Los modelos preentrenados (Semanas 2-3) deberán superarlo con claridad.
+## Preprocesamiento lingüístico (Día 6)
+- Modelo: spaCy `es_core_news_sm` (instalar con `python -m spacy download es_core_news_sm`).
+- Los textos de MASSIVE vienen en minúsculas: el NER del modelo pequeño no es confiable (detecta verbos como entidades, p. ej. "pon" como ORG). **Decisión: no se usan entidades como características.**
+- 53 % de los tokens son stopwords.
 
+| Variante de E0 | macro-F1 validación | Diferencia |
+|---|---|---|
+| Texto original | 0.8725 | — |
+| Lemas | 0.8764 | +0.0039 |
+| Lemas sin stopwords | 0.8451 | −0.0274 |
+
+Quitar stopwords empeora: palabras como "qué", "mi" o "me" son pistas del dominio.
+**Decisión:** [tu decisión y por qué].
 ## Cómo reproducir
 1. Abrir en Colab `notebooks/D5_lab_1_5_keras_texto.ipynb` y ejecutar todo.
 2. Los datos se descargan de `data/limpio/` y se verifica su md5 antes de usarlos.
