@@ -1,0 +1,10 @@
+{
+  "experimento": "E0 con preprocesamiento spaCy (es_core_news_sm)",
+  "split_evaluado": "validation",
+  "macro_f1": {
+    "E0 (texto original)": 0.8725,
+    "E0-lemas": 0.8764,
+    "E0-lemas-sin-stop": 0.8451
+  },
+  "spacy": "3.8.18"
+}
