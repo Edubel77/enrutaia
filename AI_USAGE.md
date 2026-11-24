@@ -11,3 +11,5 @@
 | 2026-11-21 | Claude | Módulo src/limpieza.py con las 5 reglas | Aceptado tras revisarlo; corregí la premisa de Claude sobre el orden de las reglas 4 y 5 (no cambia el resultado) | 9 pruebas pytest en verde + 0 fugas verificadas sobre los datos reales |
 | 2026-11-21 | Claude | 8 pruebas pytest para la limpieza | Aceptadas; escribí yo la prueba de la regla 5 | pytest: 9 passed |
 | 2026-11-22 | Claude | Código de E1 (TextVectorization + Embedding) y evaluación con 3 semillas | Aceptado tras revisarlo | md5 de los datos verificado, semilla 42 repetida con resultado idéntico (0.871508), E0 reproducido desde el repo |
+| 2026-11-23 | Claude | Módulo src/text_clean.py y 5 pruebas | Aceptado; escribí la 6.ª prueba (quitar_stopwords) y corregí mi propio error al no pedir la fixture nlp | pytest: 6 passed |
+| 2026-11-23 | Claude | Experimento E0 con variantes de spaCy | Aceptado; corregí mi atribución de las minúsculas (vienen de MASSIVE, no de la limpieza) | Control E0 original = 0.8725, igual que el Día 4 |
