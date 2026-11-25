@@ -57,7 +57,7 @@ Las solicitudes de usuarios llegan en texto libre y alguien debe asignarlas al �
 | Lemas sin stopwords | 0.8451 | −0.0274 |
 
 Quitar stopwords empeora: palabras como "qué", "mi" o "me" son pistas del dominio.
-**Decisión:** **Decisión:** se mantiene E0 original como referencia. La mejora de E0-lemas (+0.0039) es pequeña y no compensa agregar spaCy como dependencia ni hacer más lento el procesamiento, cuando el modelo base ya funciona bien. Además, los Transformers de la Semana 3 trabajan con texto crudo..
+**Decisión:** se mantiene E0 original como referencia. La mejora de E0-lemas (+0.0039) es pequeña y no compensa agregar spaCy como dependencia ni hacer más lento el procesamiento, cuando el modelo base ya funciona bien. Además, los Transformers de la Semana 3 trabajan con texto crudo..
 
 ## Cómo reproducir
 1. Abrir en Colab `notebooks/D5_lab_1_5_keras_texto.ipynb` y ejecutar todo.
