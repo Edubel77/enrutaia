@@ -57,9 +57,10 @@ Las solicitudes de usuarios llegan en texto libre y alguien debe asignarlas al �
 | Lemas sin stopwords | 0.8451 | −0.0274 |
 
 Quitar stopwords empeora: palabras como "qué", "mi" o "me" son pistas del dominio.
-**Decisión:** [tu decisión y por qué].
+**Decisión:** **Decisión:** se mantiene E0 original como referencia. La mejora de E0-lemas (+0.0039) es pequeña y no compensa agregar spaCy como dependencia ni hacer más lento el procesamiento, cuando el modelo base ya funciona bien. Además, los Transformers de la Semana 3 trabajan con texto crudo..
+
 ## Cómo reproducir
 1. Abrir en Colab `notebooks/D5_lab_1_5_keras_texto.ipynb` y ejecutar todo.
 2. Los datos se descargan de `data/limpio/` y se verifica su md5 antes de usarlos.
 3. E0 debe dar macro-F1 = 0.8725 en validación; E1 ≈ 0.8732 ± 0.0019 (3 semillas).
-4. Las pruebas de limpieza se ejecutan con `python -m pytest tests/ -v` (9 pruebas).
+4. Instalar el modelo de español con `python -m spacy download es_core_news_sm` y ejecutar las pruebas con `python -m pytest tests/ -v` (15 pruebas: 9 de limpieza y 6 de preprocesamiento).
