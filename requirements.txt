@@ -5,4 +5,4 @@ scikit-learn==1.6.1
 datasets==4.8.5
 pytest==8.4.2
 spacy==3.8.18
-import transformers; print(transformers==5.22.1)
+transformers==5.22.1
