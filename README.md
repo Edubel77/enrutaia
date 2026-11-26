@@ -59,6 +59,21 @@ Las solicitudes de usuarios llegan en texto libre y alguien debe asignarlas al �
 Quitar stopwords empeora: palabras como "qué", "mi" o "me" son pistas del dominio.
 **Decisión:** se mantiene E0 original como referencia. La mejora de E0-lemas (+0.0039) es pequeña y no compensa agregar spaCy como dependencia ni hacer más lento el procesamiento, cuando el modelo base ya funciona bien. Además, los Transformers de la Semana 3 trabajan con texto crudo..
 
+## Representaciones de texto (Día 7)
+| Representación | macro-F1 validación |
+|---|---|
+| BoW (palabras) | 0.8559 |
+| TF-IDF (palabras) | 0.8570 |
+| TF-IDF (palabras 1-2) | 0.8499 |
+| **E0:** TF-IDF palabras 1-2 + caracteres 2-5 | **0.8725** |
+| E0-lemas (spaCy) | 0.8764 |
+| E1: Embedding aprendido | 0.8732 ± 0.0019 |
+
+- Los fragmentos de caracteres aportan la mayor mejora (+0.0226 sobre TF-IDF palabras 1-2).
+- Los embeddings de E1 agrupan palabras **del mismo dominio**, no sinónimos (p. ej. "luz" cerca de "café" y "aspirar", todos de iot).
+- Tokenizador de BETO (WordPiece): 0.03 % de tokens [UNK] en validación, frente a 4.7 % de palabras desconocidas en E1.
+- **Decisión:** `max_length = 32` para la Semana 3 (percentil 99 = 20 tokens + [CLS] y [SEP], con margen).
+
 ## Cómo reproducir
 1. Abrir en Colab `notebooks/D5_lab_1_5_keras_texto.ipynb` y ejecutar todo.
 2. Los datos se descargan de `data/limpio/` y se verifica su md5 antes de usarlos.
