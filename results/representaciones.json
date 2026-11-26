@@ -1,0 +1,21 @@
+{
+  "split_evaluado": "validation",
+  "metrica": "macro-F1",
+  "representaciones": {
+    "BoW (palabras)": 0.8559,
+    "TF-IDF (palabras)": 0.857,
+    "TF-IDF (palabras 1-2)": 0.8499,
+    "E0: TF-IDF palabras 1-2 + caracteres": 0.8725,
+    "E0-lemas (spaCy)": 0.8764,
+    "E1: Embedding aprendido (3 semillas)": "0.8732 ± 0.0019"
+  },
+  "cobertura_vocabulario_validacion": {
+    "E1 TextVectorization: palabras desconocidas": "4.7%",
+    "BETO WordPiece: tokens [UNK]": "0.03%"
+  },
+  "longitud_en_tokens_BETO": {
+    "mediana": 7,
+    "percentil_99": 19
+  },
+  "decision_max_length_semana3": 32
+}
