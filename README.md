@@ -74,14 +74,14 @@ Quitar stopwords empeora: palabras como "qué", "mi" o "me" son pistas del domin
 - Tokenizador de BETO (WordPiece): 0.03 % de tokens [UNK] en validación, frente a 4.7 % de palabras desconocidas en E1.
 - **Decisión:** `max_length = 32` para la Semana 3 (percentil 99 = 20 tokens + [CLS] y [SEP], con margen).
 
-## Cómo reproducir
-1. Abrir en Colab `notebooks/D5_lab_1_5_keras_texto.ipynb` y ejecutar todo.
-2. Los datos se descargan de `data/limpio/` y se verifica su md5 antes de usarlos.
-3. E0 debe dar macro-F1 = 0.8725 en validación; E1 ≈ 0.8732 ± 0.0019 (3 semillas).
-4. Instalar el modelo de español con `python -m spacy download es_core_news_sm` y ejecutar las pruebas con `python -m pytest tests/ -v` (15 pruebas: 9 de limpieza y 6 de preprocesamiento).
-
    ## Diagnóstico de E0 (Día 8)
 - La confusión más frecuente es **general → qa: 30 de 115** textos de general (26 %). La segunda es music → play (9).
 - qa funciona como "cajón de sastre": recibe textos de general (30), news (8) y play (7).
 - `class_weight="balanced"` **no mejora**: macro-F1 0.8699 frente a 0.8725, y general baja de 0.6047 a 0.5950 (`results/E0_class_weight.json`).
 - **Conclusión:** el problema de general no es el desbalance (115 ejemplos en validación), sino la ambigüedad con qa. **Decisión:** E0 se mantiene sin `class_weight`.
+- 
+## Cómo reproducir
+1. Abrir en Colab `notebooks/D5_lab_1_5_keras_texto.ipynb` y ejecutar todo.
+2. Los datos se descargan de `data/limpio/` y se verifica su md5 antes de usarlos.
+3. E0 debe dar macro-F1 = 0.8725 en validación; E1 ≈ 0.8732 ± 0.0019 (3 semillas).
+4. Instalar el modelo de español con `python -m spacy download es_core_news_sm` y ejecutar las pruebas con `python -m pytest tests/ -v` (15 pruebas: 9 de limpieza y 6 de preprocesamiento).
