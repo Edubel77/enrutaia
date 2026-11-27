@@ -14,3 +14,5 @@
 | 2026-11-23 | Claude | Módulo src/text_clean.py y 5 pruebas | Aceptado; escribí la 6.ª prueba (quitar_stopwords) y corregí mi propio error al no pedir la fixture nlp | pytest: 6 passed |
 | 2026-11-23 | Claude | Experimento E0 con variantes de spaCy | Aceptado; corregí mi atribución de las minúsculas (vienen de MASSIVE, no de la limpieza) | Control E0 original = 0.8725, igual que el Día 4 |
 | 2026-11-25 | Claude | Código de comparación BoW/TF-IDF, vecinos de embeddings y tokenizador de BETO | Aceptado; corregí el ejemplo de Claude ("despertadores" no se parte en desperta + ##dores, sino en despertado + ##res) | Salida real de tok.tokenize en Colab |
+| 2026-11-26 | Claude | Carga del dataset cardiffnlp/tweet_sentiment_multilingual | Corregido: Claude no verificó que el dataset usa un script de carga, que datasets 4.x ya no soporta (RuntimeError); se cargó desde la rama refs/convert/parquet | El dataset cargó con 1839/324/870 ejemplos y 3 clases balanceadas |
+| 2026-11-26 | Claude | Código de baseline, BiLSTM, análisis de errores y class_weight | Aceptado tras revisarlo | Control E0 = 0.8725; clasifiqué yo las causas de 10 errores |
