@@ -1,0 +1,17 @@
+{
+  "split_evaluado": "validation",
+  "resultados": {
+    "E0": {
+      "macro_f1": 0.8725,
+      "f1_general": 0.6047,
+      "f1_qa": 0.7975,
+      "f1_minimo": 0.6047
+    },
+    "E0-balanced": {
+      "macro_f1": 0.8699,
+      "f1_general": 0.595,
+      "f1_qa": 0.8,
+      "f1_minimo": 0.595
+    }
+  }
+}
