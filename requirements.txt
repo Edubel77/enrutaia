@@ -6,3 +6,5 @@ datasets==4.8.5
 pytest==8.4.2
 spacy==3.8.18
 transformers==5.22.1
+torch==2.14.1
+sentencepiece==0.2.2
