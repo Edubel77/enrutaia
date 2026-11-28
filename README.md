@@ -79,6 +79,20 @@ Quitar stopwords empeora: palabras como "qué", "mi" o "me" son pistas del domin
 - qa funciona como "cajón de sastre": recibe textos de general (30), news (8) y play (7).
 - `class_weight="balanced"` **no mejora**: macro-F1 0.8699 frente a 0.8725, y general baja de 0.6047 a 0.5950 (`results/E0_class_weight.json`).
 - **Conclusión:** el problema de general no es el desbalance (115 ejemplos en validación), sino la ambigüedad con qa. **Decisión:** E0 se mantiene sin `class_weight`.
+
+
+## Zero-shot: E2 (Día 9)
+Modelo NLI `MoritzLaurer/mDeBERTa-v3-base-mnli-xnli`, plantilla "Esta solicitud trata sobre {}.", sin usar ejemplos de entrenamiento.
+
+| Variante | macro-F1 validación | F1 general | F1 qa |
+|---|---|---|---|
+| Descripciones largas | 0.2187 | 0.000 | 0.089 |
+| Etiquetas cortas | 0.4357 | 0.099 | 0.037 |
+| E0 (referencia) | **0.8725** | 0.605 | 0.798 |
+
+- El diagnóstico descartó un fallo técnico: el ejemplo de la ficha técnica del modelo da "politics" con 0.966.
+- El zero-shot es **frágil**: cambiar solo las palabras de las etiquetas duplica el macro-F1 (+0.217), y el sesgo cambia de clase (de transport a recommendation y social).
+- Sin ejemplos, no aprende la frontera entre general y qa. **Conclusión:** la Semana 3 hará fine-tuning de un modelo preentrenado.
 - 
 ## Cómo reproducir
 1. Abrir en Colab `notebooks/D5_lab_1_5_keras_texto.ipynb` y ejecutar todo.
